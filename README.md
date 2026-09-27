@@ -2,7 +2,7 @@
 
 A 2D / 2.5D partner platformer made in **Unity 6** for GSD 551 (Tools & Techniques of Programming, University of Illinois). Two heroes, one mission: recover the intel, clear the route, and reach extraction **together**.
 
-**▶ Play in your browser:** [Unity Play](PLAY_URL_HERE) · **Portfolio page:** [fernando.org/portfolio](https://www.fernando.org/portfolio)
+**▶ Play in your browser:** [Unity Play](https://play.unity.com/en/games/b9d3cea2-600d-4320-b9f4-2800c7b599a2/stefanie-fernando) · **Portfolio page:** [fernando.org/programming](https://www.fernando.org/programming)
 
 Version **0.8.47-r2** · Unity **6000.6.0f1** · Windows (native 4K) and WebGL
 
