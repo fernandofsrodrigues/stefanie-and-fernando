@@ -1,0 +1,92 @@
+[
+  {
+    "id": "fernando_field_rifle",
+    "source": "C:\\Users\\rod03\\.codex\\generated_images\\01a0ca62-d7da-7383-a4be-3f8fc0055ece\\exec-63f31945-e095-4c10-98a1-5515b2c246bc.png",
+    "sha256": "0b6f3bee0efd9786375b85e9b4ef451746e31db4e2885ca0f4e68c435c0d14a5",
+    "status": "gameplay rifle pose set; artwork is illustrative",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "mask": "cyan",
+      "anchor": "center",
+      "pixelsPerUnit": 169
+    }
+  },
+  {
+    "id": "stefanie_field_rifle",
+    "source": "C:\\Users\\rod03\\.codex\\generated_images\\01a0ca62-d7da-7383-a4be-3f8fc0055ece\\exec-32be37db-b044-4ec9-bb59-31b487272bb9.png",
+    "sha256": "a5d6aa5dd6cf5004866efb909405b732ab9240a1f4a0d8eabc99638f023a6bc1",
+    "status": "gameplay rifle pose set; artwork is illustrative",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "mask": "cyan",
+      "anchor": "center",
+      "pixelsPerUnit": 166
+    }
+  },
+  {
+    "id": "fernando_field_rifle_walk",
+    "source": "C:\\Users\\rod03\\.codex\\generated_images\\01a0ca62-d7da-7383-a4be-3f8fc0055ece\\exec-d2f79a53-b017-492a-b58f-25261ae66476.png",
+    "sha256": "009ec890975041a79d0e8aa26589cf04c789383d0d45b84b8231bf613b83c6e9",
+    "status": "temporary locomotion; near/far leg occlusion still needs correction",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "mask": "cyan",
+      "anchor": "center",
+      "pixelsPerUnit": 169
+    }
+  },
+  {
+    "id": "stefanie_field_rifle_walk",
+    "source": "C:\\Users\\rod03\\.codex\\generated_images\\01a0ca62-d7da-7383-a4be-3f8fc0055ece\\exec-73224848-66e0-452f-ad6d-5c8b4730ccf3.png",
+    "sha256": "d646d425419bc7a246ba670f042403a34ad55eee895c58095b1b169a7a7d1a69",
+    "status": "temporary locomotion; near/far leg occlusion still needs correction",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "mask": "cyan",
+      "anchor": "center",
+      "pixelsPerUnit": 166
+    }
+  },
+  {
+    "id": "fernando_civil_rifle",
+    "source": "C:\\Users\\rod03\\.codex\\generated_images\\01a0ca62-d7da-7383-a4be-3f8fc0055ece\\exec-a44ef85a-a1e5-46be-99ae-a696ed8877f0.png",
+    "sha256": "62d3629784a195365afb93825049152e16b8a9d29cab467bc3316ae827ffcc7b",
+    "profile": {
+      "columns": 2,
+      "rows": 2,
+      "anchor": "center",
+      "mask": "cyan",
+      "pixelsPerUnit": 168,
+      "rootX": [
+        350,
+        1040,
+        347,
+        1040
+      ]
+    },
+    "status": "illustrative rifle key poses"
+  },
+  {
+    "id": "stefanie_civil_rifle",
+    "source": "C:\\Users\\rod03\\.codex\\generated_images\\01a0ca62-d7da-7383-a4be-3f8fc0055ece\\exec-0c9514ee-41ad-4b00-8228-fddb4ddd97af.png",
+    "sha256": "b371f7e525ab21894b5c6c01e378e1589d765cd9f9d2fc175f6565ded1ef49ac",
+    "profile": {
+      "columns": 2,
+      "rows": 2,
+      "anchor": "center",
+      "mask": "cyan",
+      "pixelsPerUnit": 168,
+      "rootX": [
+        350,
+        1030,
+        350,
+        1040
+      ]
+    },
+    "status": "illustrative rifle key poses"
+  }
+]

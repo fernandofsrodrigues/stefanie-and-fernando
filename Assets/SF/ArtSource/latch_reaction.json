@@ -1,0 +1,14 @@
+{
+  "columns": 3,
+  "rows": 2,
+  "top": 0,
+  "worldHeight": 2.8,
+  "rowCuts": [
+    0,
+    0.54,
+    1
+  ],
+  "anchor": "feet",
+  "mask": "auto",
+  "captionBand": 90
+}

@@ -1,0 +1,15 @@
+# Audio credits — local build 0.5
+
+These sources are marked CC0 by their publishers. Source attribution is retained for traceability even where not required. Per-file origin, edits and SHA-256 are recorded in `UnityProject/Assets/SF/AudioLicenses/sources.json` and `QA/audio-source-checks.json`.
+
+| Source | Creators | Use |
+|---|---|---|
+| [The Free Firearm Sound Library](https://opengameart.org/content/the-free-firearm-sound-library) | Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney | Two pistol and two rifle variants in gameplay; two shotgun variants reserved for later use |
+| [Impact Sounds](https://kenney.nl/assets/impact-sounds) | Kenney | Concrete/grass steps, punch, heavy impact, cloth and generic cover-impact banks; three variants each |
+| [Pressure](https://opengameart.org/content/pressure) | yd | Background composition, with separate music control and runtime overlap at the track wrap |
+
+License reference: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+
+Firearm derivatives isolate the first report with a short pre-roll and decay, mix stereo to mono, apply an anti-alias filter before 96 → 48 kHz conversion, control peaks and fade endpoints. Foley derivatives use mono conversion, endpoint fades and peak control. Music is decoded, attenuated by a constant gain (approximately -6.69 dB) and saved as stereo PCM16 WAV because the decoded source exceeds full scale. The complete composition is retained. Volume, pause and crossfade are runtime operations. Unity then encodes playback assets with its audio importer.
+
+The recordings represent broad weapon classes. They are not claimed to match the exact hero weapon models, or to provide acoustic training fidelity. The older prototype jingles were removed. Since 0.8.38, distinct original procedural success/failure cues are included; source code, WAV hashes and provenance are preserved in AudioLicenses/Results-v0838. These cues contain no sampled external audio. Playback/import tests and numerical peak checks are separate from artistic listening approval; a human listening and mix pass remains necessary.

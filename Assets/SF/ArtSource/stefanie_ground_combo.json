@@ -1,0 +1,13 @@
+{
+  "columns": 2,
+  "rows": 2,
+  "pixelsPerUnit": 240,
+  "anchor": "feet",
+  "mask": "cyan",
+  "rootX": [
+    350,
+    1044,
+    350,
+    1044
+  ]
+}

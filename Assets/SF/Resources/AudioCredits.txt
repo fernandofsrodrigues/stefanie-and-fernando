@@ -1,0 +1,55 @@
+MUSIC
+
+Cylinder One / Cylinder Seven / Cylinder Nine
+Written, produced and performed by Chris Zabriskie
+From the album Cylinders (2014). © 2014 Chris Zabriskie.
+Published by You've Been a Wonderful Laugh Track (ASCAP).
+Licensed under Creative Commons Attribution 4.0.
+https://creativecommons.org/licenses/by/4.0/
+https://chriszabriskie.com/cylinders/
+
+Changes: decoded to stereo PCM, constant peak attenuation, Unity encoding, runtime fades, looping and mix. Complete compositions retained. Artist does not endorse this game. These music files retain their CC BY 4.0 freedoms.
+
+Pressure — yd / CC0 1.0
+https://opengameart.org/content/pressure
+
+RECORDED SOUND EFFECTS
+
+Punch — Iwan 'qubodup' Gabovitch / CC0 1.0
+https://opengameart.org/content/punch
+Five body impact recordings, mono/silence trim/fades/peak control; five heavy variants add an original short bass transient. No Capcom recordings used.
+
+The Free Firearm Sound Library — Ben Jaszczak, Brian Nelson, Kevin Heras and Matthew Nanney / CC0 1.0
+https://opengameart.org/content/the-free-firearm-sound-library
+
+Impact Sounds — Kenney / CC0 1.0
+https://kenney.nl/assets/impact-sounds
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Effects edited for length, mono playback, endpoint fades and peak control. Weapon sounds represent broad classes, not exact model recordings.
+
+VEHICLE SOUND EFFECTS
+
+Car engine loop (96kHz, 4s) — Iwan "qubodup" Gabovitch / CC BY 3.0
+https://opengameart.org/content/car-engine-loop-96khz-4s
+
+Car Tire Squeal Skid Loop — audible-edge (Tom Haigh); loop edit by qubodup / CC BY 3.0
+https://opengameart.org/content/car-tire-squeal-skid-loop
+https://creativecommons.org/licenses/by/3.0/
+
+CarDoorSfx (opening/closing) and Car Engine Start Up 02 — looneybits / CC0 1.0
+https://opengameart.org/content/cardoorsfx
+https://opengameart.org/content/car-engine-start-up-02
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Changes: mono mix, DC removal, 48 kHz resampling, loop overlap crossfades or silence trim/edge fades, peak control, runtime pitch and volume. Generic vehicle foley; not exact vehicle-model recordings. Creators do not endorse this game. CC BY sounds retain their license freedoms; standalone original and edited WAVs accompany the portable build in AudioLicenses/Vehicle-v0823.
+
+GAME
+Created with Rod's direction and supplied artwork.
+Development and integration: OpenAI Codex.
+Private playable development build. More art and animation work continues.
+
+Motorcycle idle: Motorbike Idling.wav by lmbubec — CC0 1.0
+https://freesound.org/people/lmbubec/sounds/119455/
+https://creativecommons.org/publicdomain/zero/1.0/
+Public HQ preview; mono, trimmed and looped. Generic engine, not model-specific.

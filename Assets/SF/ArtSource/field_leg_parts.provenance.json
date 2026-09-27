@@ -1,0 +1,24 @@
+{
+  "generator": "Built-in OpenAI image generation",
+  "date": "2026-09-23",
+  "original": "C:/Users/rod03/.codex/generated_images/01a0ca62-d7da-7383-a4be-3f8fc0055ece/exec-96f63c52-3b28-4c03-a809-a80fd1cfc30d.png",
+  "source": "GeneratedArt/field-leg-parts-v073.png",
+  "prompt": "GeneratedArt/field-leg-parts-v073-prompt.txt",
+  "references": [
+    "GeneratedArt/fernando_field_rifle_walk-v07.png",
+    "GeneratedArt/stefanie_field_rifle_walk-v07.png"
+  ],
+  "integration": "Two generated neutral limb parts, imported with the existing Unity cyan-key/whole-component importer. Original torso/face/weapon pixels come from 0.7 rifle movement frames 0 and 4. Runtime meshes preserve texture UVs and articulate independent near/far legs using an authored two-bone solver. No original raster overwritten.",
+  "limitations": [
+    "Same neutral outer-leg texture reused for near/far legs, with far-leg shading.",
+    "Layered 2D rig rather than captured human motion.",
+    "Source camo and equipment remain illustrative.",
+    "Only military rifle locomotion uses the rig; civilian and military unarmed locomotion remain unfinished."
+  ],
+  "sha256": {
+    "GeneratedArt/field-leg-parts-v073.png": "d3b381c2a8fc2c1988add962aa34d027fb8af1f914f50b312e52e26a0c3a69c4",
+    "GeneratedArt/field-leg-parts-v073-prompt.txt": "50c57e60ee6af9d0879792500b7b3add165ec001b0e649e40e4da61a12222cc2",
+    "GeneratedArt/fernando_field_rifle_walk-v07.png": "009ec890975041a79d0e8aa26589cf04c789383d0d45b84b8231bf613b83c6e9",
+    "GeneratedArt/stefanie_field_rifle_walk-v07.png": "d646d425419bc7a246ba670f042403a34ad55eee895c58095b1b169a7a7d1a69"
+  }
+}

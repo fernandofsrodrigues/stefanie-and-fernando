@@ -1,0 +1,22 @@
+[
+  {
+    "file": "result_win.wav",
+    "seconds": 1.2,
+    "sampleRate": 44100,
+    "channels": 1,
+    "pcmBits": 16,
+    "peakLinear": 0.2837252681771626,
+    "rms": 0.07265995193622406,
+    "sha256": "1423a18e9710785409cebed6676d3a6b0d0ea244a8fed9bf21d37915a407dfb8"
+  },
+  {
+    "file": "result_fail.wav",
+    "seconds": 1.2,
+    "sampleRate": 44100,
+    "channels": 1,
+    "pcmBits": 16,
+    "peakLinear": 0.27147175714595473,
+    "rms": 0.06862684414792687,
+    "sha256": "f55248b803b1fe4e5920ca9e8a6ef55149ccb80fe7e12317ad37b93ebeb0d754"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "columns": 4,
+  "rows": 2,
+  "top": 0,
+  "worldHeight": 2.9,
+  "captionBand": 0,
+  "anchor": "feet",
+  "mask": "cyan",
+  "pixelsPerUnit": 137,
+  "excludeTopLeft": [{"x": 720, "y": 0, "width": 340, "height": 34}]
+}

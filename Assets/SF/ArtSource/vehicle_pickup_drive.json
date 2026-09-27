@@ -1,0 +1,33 @@
+{
+  "columns": 1,
+  "rows": 1,
+  "anchor": "bounds",
+  "mask": "cyan",
+  "pixelsPerUnit": 250,
+  "excludeTopLeft": [
+    {
+      "x": 0,
+      "y": 0,
+      "width": 2103,
+      "height": 29
+    },
+    {
+      "x": 0,
+      "y": 722,
+      "width": 2103,
+      "height": 26
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "width": 27,
+      "height": 748
+    },
+    {
+      "x": 2076,
+      "y": 0,
+      "width": 27,
+      "height": 748
+    }
+  ]
+}

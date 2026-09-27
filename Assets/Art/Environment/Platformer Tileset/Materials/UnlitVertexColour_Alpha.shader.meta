@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 125f31ba4cdefb2469a075f509877b02
+timeCreated: 1461197347
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 182519
+  packageName: Free Platformer Tileset
+  packageVersion: 1.0
+  assetPath: Assets/Platformer Tileset/Materials/UnlitVertexColour_Alpha.shader
+  uploadId: 399467

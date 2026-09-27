@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 04ede0abc1e28a148a7a91cc95adf385
+timeCreated: 1516207931
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 182519
+  packageName: Free Platformer Tileset
+  packageVersion: 1.0
+  assetPath: Assets/Platformer Tileset/Materials/GradientSky/Shaders/VertexColorCamera.shader
+  uploadId: 399467

@@ -1,0 +1,15 @@
+{
+  "columns": 1,
+  "rows": 2,
+  "anchor": "bounds",
+  "mask": "cyan",
+  "pixelsPerUnit": 185,
+  "excludeTopLeft": [
+    {
+      "x": 0,
+      "y": 509,
+      "width": 1536,
+      "height": 7
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+[
+  {
+    "id": "ally_tigre",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Tactical officer’s eight-pose reference sheet.png",
+    "sourceSha256": "dc4a647817836e1d10ac02442d75b255e107503cc4a918b4bf769f793290ec9a",
+    "stagedSha256": "dc4a647817836e1d10ac02442d75b255e107503cc4a918b4bf769f793290ec9a",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "bottom": 0,
+      "worldHeight": 2.8,
+      "mask": "auto",
+      "anchor": "feet",
+      "pixelsPerUnit": 161.7857
+    },
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "ally_tigre_walk",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Corrected PCPR TIGRE officer gait sequence.png",
+    "sourceSha256": "6dd25249a0187b6f2003af711f169e38df5c1024197a95484dd11b74853ca372",
+    "stagedSha256": "6dd25249a0187b6f2003af711f169e38df5c1024197a95484dd11b74853ca372",
+    "profile": {
+      "columns": 2,
+      "rows": 2,
+      "top": 0,
+      "bottom": 0,
+      "worldHeight": 2.8,
+      "mask": "auto",
+      "anchor": "center",
+      "pixelsPerUnit": 170.5357
+    },
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "ally_bope",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Eight BOPE tactical officer pose references.png",
+    "sourceSha256": "6beac94f26ace4c0fafd6596ea6aec882ae7399a312d70f273c4592bdbbc9587",
+    "stagedSha256": "6beac94f26ace4c0fafd6596ea6aec882ae7399a312d70f273c4592bdbbc9587",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "bottom": 0,
+      "worldHeight": 2.8,
+      "mask": "auto",
+      "anchor": "feet",
+      "pixelsPerUnit": 167.1429
+    },
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "ally_bope_walk",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Four-frame BOPE tactical officer walk cycle.png",
+    "sourceSha256": "d37fadf183c48037ace1c91b04b87bbafc10c75456f2a8fa2973e0d8e79857af",
+    "stagedSha256": "d37fadf183c48037ace1c91b04b87bbafc10c75456f2a8fa2973e0d8e79857af",
+    "profile": {
+      "columns": 2,
+      "rows": 2,
+      "top": 0,
+      "bottom": 0,
+      "worldHeight": 2.8,
+      "mask": "auto",
+      "anchor": "center",
+      "pixelsPerUnit": 173.0357
+    },
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "ally_swat",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Eight US Police SWAT tactical officer pose references.png",
+    "sourceSha256": "f6f6e723c04973ebf719ddc2e9db36789d7eb70381e6ed06a554a3ffe9e61cdb",
+    "stagedSha256": "f6f6e723c04973ebf719ddc2e9db36789d7eb70381e6ed06a554a3ffe9e61cdb",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "bottom": 0,
+      "worldHeight": 2.8,
+      "mask": "auto",
+      "anchor": "feet",
+      "pixelsPerUnit": 150.7143
+    },
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "ally_swat_walk",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Four-Frame SWAT Walking Cycle.png",
+    "sourceSha256": "eefae1e86e29a3330e0646592766b2770d0bccc303969e750a00b811dffabd5a",
+    "stagedSha256": "eefae1e86e29a3330e0646592766b2770d0bccc303969e750a00b811dffabd5a",
+    "profile": {
+      "columns": 2,
+      "rows": 2,
+      "top": 0,
+      "bottom": 0,
+      "worldHeight": 2.8,
+      "mask": "auto",
+      "anchor": "center",
+      "pixelsPerUnit": 165.0,
+      "excludeTopLeft": [
+        {
+          "x": 0,
+          "y": 485,
+          "width": 1448,
+          "height": 35
+        }
+      ]
+    },
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "ally_marine",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Eight Marine Rifle Poses.png",
+    "sourceSha256": "cd41054b82a22c0f99399f89f463c60b67390282510849922b59c7d668a24ac9",
+    "stagedSha256": "cd41054b82a22c0f99399f89f463c60b67390282510849922b59c7d668a24ac9",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "bottom": 0,
+      "worldHeight": 2.8,
+      "mask": "auto",
+      "anchor": "feet",
+      "pixelsPerUnit": 159.6429
+    },
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "ally_marine_walk",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\US Marine Four-frame walk cycle.png",
+    "sourceSha256": "692d94af354a54870919be4fa1fe70f060b5f6397fa108ef0148998598f5871f",
+    "stagedSha256": "692d94af354a54870919be4fa1fe70f060b5f6397fa108ef0148998598f5871f",
+    "profile": {
+      "columns": 2,
+      "rows": 2,
+      "top": 0,
+      "bottom": 0,
+      "worldHeight": 2.8,
+      "mask": "auto",
+      "anchor": "center",
+      "pixelsPerUnit": 173.5714
+    },
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "ally_airborne",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Female Airborne Soldier Eight-Pose Sheet.png",
+    "sourceSha256": "0bf3a833fa81af383cfdd3ee890cd7ce12ba679d716344066c9fe47665f7c6ee",
+    "stagedSha256": "0bf3a833fa81af383cfdd3ee890cd7ce12ba679d716344066c9fe47665f7c6ee",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "bottom": 0,
+      "worldHeight": 2.8,
+      "mask": "auto",
+      "anchor": "feet",
+      "pixelsPerUnit": 162.8571
+    },
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "ally_airborne_walk",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\82nd AD Soldier gait alternation pose study.png",
+    "sourceSha256": "e8a7ab3544a0f79a863ecadbc83c6493d39ef402d3d546c08a268d3f31bfb366",
+    "stagedSha256": "e8a7ab3544a0f79a863ecadbc83c6493d39ef402d3d546c08a268d3f31bfb366",
+    "profile": {
+      "columns": 2,
+      "rows": 2,
+      "top": 0,
+      "bottom": 0,
+      "worldHeight": 2.8,
+      "mask": "auto",
+      "anchor": "center",
+      "pixelsPerUnit": 169.1071
+    },
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "vehicle_bearcat",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Lenco BearCat four-state vehicle sheet.png",
+    "sourceSha256": "92b5019de54b8d4d739153a738fb8d987f21c016c1e7c97a69ff4db321c232e2",
+    "stagedSha256": "92b5019de54b8d4d739153a738fb8d987f21c016c1e7c97a69ff4db321c232e2",
+    "profile": {
+      "columns": 2,
+      "rows": 2,
+      "top": 0,
+      "bottom": 0,
+      "worldHeight": 2.8,
+      "mask": "auto",
+      "anchor": "bounds",
+      "pixelsPerUnit": 100
+    },
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "weapons_hero",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Six isolated weapons on pale cyan.png",
+    "sourceSha256": "12e170c94c07a8ee7aa4a812e221db3b0c915ef8ab74aab8609d984e696dcc36",
+    "stagedSha256": "12e170c94c07a8ee7aa4a812e221db3b0c915ef8ab74aab8609d984e696dcc36",
+    "profile": {
+      "columns": 3,
+      "rows": 2,
+      "top": 0,
+      "bottom": 0,
+      "worldHeight": 2.8,
+      "mask": "auto",
+      "anchor": "bounds",
+      "pixelsPerUnit": 100
+    },
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_1_0",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Twilight Art Deco on South Beach.png",
+    "sourceSha256": "ae582b3e88c1bfac23f42aa1618ef9b00df8935f6916f2c72b636f0df30364d2",
+    "stagedSha256": "ae582b3e88c1bfac23f42aa1618ef9b00df8935f6916f2c72b636f0df30364d2",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_1_1",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Blue-hour Miami Art Deco promenade.png",
+    "sourceSha256": "b4056a635fda6971a68f9fb20e209322145dee69eeaa85884e51b124c3642ca8",
+    "stagedSha256": "b4056a635fda6971a68f9fb20e209322145dee69eeaa85884e51b124c3642ca8",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_1_2",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Twilight Art Deco Waterfront.png",
+    "sourceSha256": "3c1500fc1fd21d9dfb98f25bf5088f71ce89071e07ebeff002dbfbc2efefba4c",
+    "stagedSha256": "3c1500fc1fd21d9dfb98f25bf5088f71ce89071e07ebeff002dbfbc2efefba4c",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_1_3",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Twilight Marina Promenade.png",
+    "sourceSha256": "398a1bbdf41908c5cffdad8294395f69bc9071390b423ecdee736f0f31bf7c11",
+    "stagedSha256": "398a1bbdf41908c5cffdad8294395f69bc9071390b423ecdee736f0f31bf7c11",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_1_4",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Twilight Marina Service Court.png",
+    "sourceSha256": "5d6b85d9ebb520af9f935cb65637d173595f229bc215ce73b4830e11454a3471",
+    "stagedSha256": "5d6b85d9ebb520af9f935cb65637d173595f229bc215ce73b4830e11454a3471",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_1_5",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Art Deco Terminal on the Waterfront Topaz Gigapixel 4x scale.png",
+    "sourceSha256": "5ab5bb5da1ebaf96d21c7286a82d581f97771312e8de7dc3c52a539c74e4e6aa",
+    "stagedSha256": "900b3c0a45bb8af48b71ec10905427a2ca3d6569b9ac712657291aa4fbbcdbef",
+    "profile": null,
+    "derivative": "2400px Lanczos from reviewed Topaz export",
+    "sourceAtImport": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\Topaz Gigapixel 4x\\Art Deco Terminal on the Waterfront Topaz Gigapixel 4x scale.png"
+  },
+  {
+    "id": "plate_2_0",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Colorful Rocinha Hillside Street.png",
+    "sourceSha256": "1145444e6ebc398ae8bf71a25e7a78d9b0dde66892cc3d6ae7ce62bbd9ba7964",
+    "stagedSha256": "1145444e6ebc398ae8bf71a25e7a78d9b0dde66892cc3d6ae7ce62bbd9ba7964",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_2_1",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Hillside Courtyard at Forest Edge.png",
+    "sourceSha256": "82d73729d9ea6e5fa569c5afdb9775d4224df748c93c0979ac0c3bcf5efe78df",
+    "stagedSha256": "82d73729d9ea6e5fa569c5afdb9775d4224df748c93c0979ac0c3bcf5efe78df",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_2_2",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Golden Terrace Over Rio Hills.png",
+    "sourceSha256": "08de45e842d123e3619787f9aa28bf6abcfbbdd05f9d99725ab7b88e74d57b19",
+    "stagedSha256": "08de45e842d123e3619787f9aa28bf6abcfbbdd05f9d99725ab7b88e74d57b19",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_2_3",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Golden-hour Rio terrace panorama.png",
+    "sourceSha256": "e3a48d33804c240677a4137dada81b5e18b3bf250f03babaa0a3c83cd701e00e",
+    "stagedSha256": "e3a48d33804c240677a4137dada81b5e18b3bf250f03babaa0a3c83cd701e00e",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_2_4",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Golden-Hour Pavilion in the Atlantic Forest.png",
+    "sourceSha256": "9f85f879a9751b45bcf2b51a0dce2ba5b72bb48e34efc6284559d4d66256fdef",
+    "stagedSha256": "9f85f879a9751b45bcf2b51a0dce2ba5b72bb48e34efc6284559d4d66256fdef",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_2_5",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Leblon hillside garden overlook.png",
+    "sourceSha256": "62eb116d9f5f24dd77560f41cc8edb3f9f60215979906eef2c686c3392b8ea8c",
+    "stagedSha256": "62eb116d9f5f24dd77560f41cc8edb3f9f60215979906eef2c686c3392b8ea8c",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_3_0",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Misty dawn maintenance yard.png",
+    "sourceSha256": "c629a07213a6e1d8706e7b0ee62e723dca4e9257e5605c8bfe6e41ada612aad8",
+    "stagedSha256": "c629a07213a6e1d8706e7b0ee62e723dca4e9257e5605c8bfe6e41ada612aad8",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_3_1",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Misty coastal training compound at dawn.png",
+    "sourceSha256": "999cbb29726c1189049e9021d44350de201434322b96584b6cb5d937165ec48a",
+    "stagedSha256": "999cbb29726c1189049e9021d44350de201434322b96584b6cb5d937165ec48a",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_3_2",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Misty Coastal Training Lane.png",
+    "sourceSha256": "f6e1b547f2673a585fdedf5bc3a8185a45f37fcf3f11aba590f7747df5f3a40d",
+    "stagedSha256": "f6e1b547f2673a585fdedf5bc3a8185a45f37fcf3f11aba590f7747df5f3a40d",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_3_3",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Woodland Creek Bridge at Dawn.png",
+    "sourceSha256": "de3ec793fa36a864ca58717b7527bea63ad08f26b897add492bf2408c7097986",
+    "stagedSha256": "de3ec793fa36a864ca58717b7527bea63ad08f26b897add492bf2408c7097986",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_3_4",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Dawn Boardwalk by the Coastal Marsh.png",
+    "sourceSha256": "4bbd2f2b791c1725f023957628f78cbd675525745827633fe261baeb0fccad26",
+    "stagedSha256": "4bbd2f2b791c1725f023957628f78cbd675525745827633fe261baeb0fccad26",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_3_5",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Dawn boathouse apron.png",
+    "sourceSha256": "b8d94c8f5d1339b45b5300cafea7b3774393088a03bfd138416c2114c1ce953e",
+    "stagedSha256": "b8d94c8f5d1339b45b5300cafea7b3774393088a03bfd138416c2114c1ce953e",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_4_0",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Airborne Training Campus in the Sandhills.png",
+    "sourceSha256": "64e13cf2b0cb61592fb0049bb6a239224759b91103f37b9623b1a572ec6b9c1e",
+    "stagedSha256": "64e13cf2b0cb61592fb0049bb6a239224759b91103f37b9623b1a572ec6b9c1e",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_4_1",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Pinewood Obstacle Training Grounds.png",
+    "sourceSha256": "85e959e42983bdeca9b20a43ebd86f7d1722a5652694cf4aef9c0d9ae5c315a0",
+    "stagedSha256": "85e959e42983bdeca9b20a43ebd86f7d1722a5652694cf4aef9c0d9ae5c315a0",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_4_2",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Training assembly court and pavilion.png",
+    "sourceSha256": "8b04c51f2ed17a40a393b2eb5d4cd985a5a4e3c4aed96f2e9d1d842346eabc7e",
+    "stagedSha256": "8b04c51f2ed17a40a393b2eb5d4cd985a5a4e3c4aed96f2e9d1d842346eabc7e",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_4_3",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Training Support Court with Urban Facades.png",
+    "sourceSha256": "371d26b64204836090d2b8f07b3a6cd813ab91b1eb3647967b7534ef850c59a2",
+    "stagedSha256": "371d26b64204836090d2b8f07b3a6cd813ab91b1eb3647967b7534ef850c59a2",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_4_4",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Concrete training block under longleaf pines Topaz Gigapixel 4x scale.png",
+    "sourceSha256": "093b0bf969431b83bdb3e050042370242b89823d7e21c538ff30149a5c6c09d2",
+    "stagedSha256": "419c092373e45b59e9d3303de442efbfa2f41fcd1b6da069e21231faeb134403",
+    "profile": null,
+    "derivative": "2400px Lanczos from reviewed Topaz export",
+    "sourceAtImport": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\Topaz Gigapixel 4x\\Concrete training block under longleaf pines Topaz Gigapixel 4x scale.png"
+  },
+  {
+    "id": "plate_4_5",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Pine-sheltered review court.png",
+    "sourceSha256": "0983ea039ec92827c4798f8ed6efeadbf9908a264e08bfaff7116d5a6d6fac35",
+    "stagedSha256": "0983ea039ec92827c4798f8ed6efeadbf9908a264e08bfaff7116d5a6d6fac35",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_5_0",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Warm Brick Street by the Euphrates.png",
+    "sourceSha256": "d6862bd750a160abd3befce5b546ac1ba4483e93ca4d7ff542e56e35f93de696",
+    "stagedSha256": "d6862bd750a160abd3befce5b546ac1ba4483e93ca4d7ff542e56e35f93de696",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_5_1",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Dusty Euphrates Town Market.png",
+    "sourceSha256": "6f2805a495b72314ff64b934aa28ccdb768a260881566a2a0c81703abfe744ef",
+    "stagedSha256": "6f2805a495b72314ff64b934aa28ccdb768a260881566a2a0c81703abfe744ef",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_5_2",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Workshop Road into the Open Desert.png",
+    "sourceSha256": "9f38a768a3d5f642ac17533c6029730936caa4cc89f9351305f5e2c0550a9e0c",
+    "stagedSha256": "9f38a768a3d5f642ac17533c6029730936caa4cc89f9351305f5e2c0550a9e0c",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_5_3",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Desert Roadside Service Stop.png",
+    "sourceSha256": "1662caebb3482e20f5b29037ade9c446ec716c0712fda26638ebfac77244aade",
+    "stagedSha256": "1662caebb3482e20f5b29037ade9c446ec716c0712fda26638ebfac77244aade",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_5_4",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Late-Afternoon Wadi Crossing.png",
+    "sourceSha256": "a73cb4f0bc34312c3c04abc22ed7afc16075f3c2e8ae17958feec74d35745da4",
+    "stagedSha256": "a73cb4f0bc34312c3c04abc22ed7afc16075f3c2e8ae17958feec74d35745da4",
+    "profile": null,
+    "derivative": "exact original copy"
+  },
+  {
+    "id": "plate_5_5",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Palm Village Canal Crossing.png",
+    "sourceSha256": "501686b259c729775c56a019ffbe4fe4400d95ee784204a0be98485015fcc8da",
+    "stagedSha256": "501686b259c729775c56a019ffbe4fe4400d95ee784204a0be98485015fcc8da",
+    "profile": null,
+    "derivative": "exact original copy"
+  }
+]

@@ -1,0 +1,593 @@
+[
+  {
+    "id": "fernando_run",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Fernando — civilian run cycle Blue Background.png",
+    "sha256": "24a973e46195619ebbb4354b77e21660d0c207d21a048e4fb5d3620e6507dc59",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 42,
+      "worldHeight": 2.8,
+      "captionBand": 0,
+      "anchor": "center",
+      "mask": "cyan",
+      "groundFraction": 0.025
+    }
+  },
+  {
+    "id": "fernando_walk",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Fernando civilian walk cycle.png",
+    "sha256": "1f71aad95468e79a4868d729350d55b7d3030cc24d9c8f0e920a5b0a98a81274",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "captionBand": 0,
+      "anchor": "center",
+      "mask": "auto",
+      "rowCuts": [
+        0,
+        0.522,
+        1
+      ],
+      "pixelsPerUnit": 142
+    }
+  },
+  {
+    "id": "stefanie_run",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Stefanie’s civilian run cycle.png",
+    "sha256": "cdce0684b2269789863c46c8dda70e6d7acd59933457a30ca2960a19fb865922",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "captionBand": 0,
+      "anchor": "center",
+      "mask": "auto",
+      "rowCuts": [
+        0,
+        0.522,
+        1
+      ],
+      "pixelsPerUnit": 142
+    }
+  },
+  {
+    "id": "stefanie_walk",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Stefanie’s civilian walk cycle.png",
+    "sha256": "795c5e2bd98ce7f1f1633c0c0ea7fd1a49e2b8ff944d180ed8f79b2053b772f9",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "captionBand": 0,
+      "anchor": "center",
+      "mask": "auto",
+      "rowCuts": [
+        0,
+        0.522,
+        1
+      ],
+      "pixelsPerUnit": 142
+    }
+  },
+  {
+    "id": "fernando_crouch",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Fernando crouch transition.png",
+    "sha256": "3d858c9514ed9da5b069d8acec9d5a005e59f4fc912e70171b6d449ecceebb50",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "captionBand": 0,
+      "anchor": "feet",
+      "mask": "auto",
+      "rowCuts": [
+        0,
+        0.522,
+        1
+      ],
+      "pixelsPerUnit": 142
+    }
+  },
+  {
+    "id": "stefanie_crouch",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Stefanie — crouch transition.png",
+    "sha256": "e688564edae3ece42056da4f875f9d9e3a8cc1340bcda0650ef31b6569327f0f",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "captionBand": 0,
+      "anchor": "feet",
+      "mask": "auto",
+      "rowCuts": [
+        0,
+        0.522,
+        1
+      ],
+      "pixelsPerUnit": 142
+    }
+  },
+  {
+    "id": "fernando_idle",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Fernando — idle breathing.png",
+    "sha256": "662ea0aebff9d19a0a5359501f693bcbc2aca8f8564c2f7fe188673353c1a993",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "captionBand": 0,
+      "anchor": "feet",
+      "mask": "auto",
+      "rowCuts": [
+        0,
+        0.522,
+        1
+      ],
+      "pixelsPerUnit": 142
+    }
+  },
+  {
+    "id": "stefanie_idle",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Stefanie’s idle breathing loop.png",
+    "sha256": "b86f77b7f2bfd4891076e063a27330c047a50d212b83e0f79ad8f01f2beeb934",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "captionBand": 0,
+      "anchor": "feet",
+      "mask": "auto",
+      "rowCuts": [
+        0,
+        0.522,
+        1
+      ],
+      "pixelsPerUnit": 142
+    }
+  },
+  {
+    "id": "fernando_jump",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Fernando’s jump keyframe sequence.png",
+    "sha256": "ee87b385a4ecf5dc571fc3ab6a999b160aadd11f1ff88e4329b2fe447b5559b1",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "captionBand": 0,
+      "anchor": "feet",
+      "mask": "auto",
+      "rowCuts": [
+        0,
+        0.522,
+        1
+      ],
+      "pixelsPerUnit": 142
+    }
+  },
+  {
+    "id": "stefanie_jump",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Stefanie’s jump keyframe sequence.png",
+    "sha256": "5baaa3156c7fe49ab593d9159fd836187f6e1cf9bb11089c669988bbeda9b645",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "captionBand": 0,
+      "anchor": "feet",
+      "mask": "auto",
+      "rowCuts": [
+        0,
+        0.522,
+        1
+      ],
+      "pixelsPerUnit": 142
+    }
+  },
+  {
+    "id": "fernando_strike",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Fernando’s straight punch keyframes.png",
+    "sha256": "a424ee8c53db24af116f690dab2a90a54cceba815646e1ae866dc646add9796c",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "captionBand": 0,
+      "anchor": "feet",
+      "mask": "auto",
+      "rowCuts": [
+        0,
+        0.522,
+        1
+      ],
+      "pixelsPerUnit": 142
+    }
+  },
+  {
+    "id": "stefanie_strike",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Stefanie's straight punch keyframes.png",
+    "sha256": "61480c1f311bd7d9715c9d0a80e25a75b840e40f8722488c301babc9d48ba86c",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "captionBand": 0,
+      "anchor": "feet",
+      "mask": "auto",
+      "rowCuts": [
+        0,
+        0.522,
+        1
+      ],
+      "pixelsPerUnit": 142
+    }
+  },
+  {
+    "id": "fernando_roundhouse",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Fernando’s right roundhouse kick sheet.png",
+    "sha256": "160ecee593eba21e926783eaf67b554d80a8a4e73699595d46d9096072630e9c",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "captionBand": 0,
+      "anchor": "feet",
+      "mask": "auto",
+      "rowCuts": [
+        0,
+        0.522,
+        1
+      ],
+      "pixelsPerUnit": 142
+    }
+  },
+  {
+    "id": "stefanie_roundhouse",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Stefanie roundhouse kick keyframe sheet.png",
+    "sha256": "ff242856cadbe555d4a5c45c78fd8dc42fd184b384df832a497274286a853760",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "captionBand": 0,
+      "anchor": "feet",
+      "mask": "auto",
+      "rowCuts": [
+        0,
+        0.522,
+        1
+      ],
+      "pixelsPerUnit": 142
+    }
+  },
+  {
+    "id": "fernando_recoil",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Fernando’s sidearm recoil sequence.png",
+    "sha256": "4da112204b60249cdcce383e1250b0b1343f164a08a5255dc148944b1bf20302",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "captionBand": 0,
+      "anchor": "feet",
+      "mask": "auto",
+      "rowCuts": [
+        0,
+        0.522,
+        1
+      ],
+      "pixelsPerUnit": 142
+    }
+  },
+  {
+    "id": "stefanie_recoil",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Stefanie’s sidearm recoil sequence.png",
+    "sha256": "1148153a2363d91d978077d664e186effe0759eab84a52c7367c3c3d7be90ea3",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "captionBand": 0,
+      "anchor": "feet",
+      "mask": "auto",
+      "rowCuts": [
+        0,
+        0.522,
+        1
+      ],
+      "pixelsPerUnit": 142
+    }
+  },
+  {
+    "id": "fernando_rifle",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Fernando’s Natural Blue Eye Correction.png",
+    "sha256": "a4d71e9b0bf49fd67085312462b7f3848a79c18f8179238a1c79bc5fc23fb33a",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "captionBand": 0,
+      "anchor": "feet",
+      "mask": "auto"
+    }
+  },
+  {
+    "id": "stefanie_rifle",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Stefanie’s eight-pose rifle animation atlas.png",
+    "sha256": "9eb069d251cbdbc5c623f64005c8c20631093600a46cf70e0cceea10d22fe75f",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "captionBand": 0,
+      "anchor": "feet",
+      "mask": "auto"
+    }
+  },
+  {
+    "id": "fernando_reaction",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Fernando — unarmed hit and recovery.png",
+    "sha256": "72dfb4c1e0dc781ea1af56209ff4d1223973ef5924273825c809ea294c0e085e",
+    "profile": {
+      "columns": 3,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "captionBand": 100,
+      "anchor": "feet",
+      "mask": "gray",
+      "rowCuts": [
+        0,
+        0.54,
+        1
+      ]
+    }
+  },
+  {
+    "id": "stefanie_reaction",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Stefanie's hit and recovery studies.png",
+    "sha256": "19a59d58b34c019421196e0f4270a53eb23adc5b97b5633f65ea936e63acd06d",
+    "profile": {
+      "columns": 3,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "captionBand": 100,
+      "anchor": "feet",
+      "mask": "auto",
+      "rowCuts": [
+        0,
+        0.54,
+        1
+      ]
+    }
+  },
+  {
+    "id": "latch_idle",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\LATCH — Guard idle.png",
+    "sha256": "9713da5cecb8eb75ad355c2305f98c2c23a917da69d8ef05b4bbffe46bb22d61",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "captionBand": 0,
+      "anchor": "feet",
+      "mask": "auto",
+      "rowCuts": [
+        0,
+        0.522,
+        1
+      ],
+      "pixelsPerUnit": 142
+    }
+  },
+  {
+    "id": "latch_strike",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Latch’s right straight punch keyframes.png",
+    "sha256": "ef7b164b60723c909ddd1a91b05cb844b7c05a51c9bd21f4cc40e837159ae9d0",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "captionBand": 0,
+      "anchor": "feet",
+      "mask": "auto",
+      "rowCuts": [
+        0,
+        0.522,
+        1
+      ],
+      "pixelsPerUnit": 142
+    }
+  },
+  {
+    "id": "vesper_walk",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Vesper — eight-phase walk cycle.png",
+    "sha256": "942f47071e7a51a1ffed827759ffc51007335401dd4d4efd26a1dba4ff185ffe",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.9,
+      "captionBand": 0,
+      "anchor": "center",
+      "mask": "auto",
+      "rowCuts": [
+        0,
+        0.522,
+        1
+      ],
+      "pixelsPerUnit": 142
+    }
+  },
+  {
+    "id": "vesper_strike",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Vesper’s Eight-Frame Baton Swing.png",
+    "sha256": "99cc06bd84f7074632b51a17c764a9b7b9a40f56b787609da21430cfb2447c20",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.9,
+      "captionBand": 0,
+      "anchor": "feet",
+      "mask": "cyan",
+      "pixelsPerUnit": 137,
+      "excludeTopLeft": [
+        {
+          "x": 720,
+          "y": 0,
+          "width": 340,
+          "height": 34
+        }
+      ]
+    }
+  },
+  {
+    "id": "props_solid",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Curitiba solid street obstacles.png",
+    "sha256": "d07878cfbb26ec1cdf7a15be12d6482f9c9802e67d9d1013167acfb3322d37b0",
+    "profile": {
+      "columns": 3,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 1,
+      "captionBand": 0,
+      "anchor": "bounds",
+      "mask": "auto"
+    }
+  },
+  {
+    "id": "props_occluder",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Curitiba foreground occluder prop sheet.png",
+    "sha256": "74d637a079cd082c71f2c19dadd16456f2c31c7bb11f01c9abbe82f8f3fda7fc",
+    "profile": {
+      "columns": 3,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 1,
+      "captionBand": 0,
+      "anchor": "bounds",
+      "mask": "auto"
+    }
+  },
+  {
+    "id": "pickups_food",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Nine recovery food pickups.png",
+    "sha256": "aa41f2e7051b62383faebed358b086689f084d23e550b65389891ba1bdac890a",
+    "profile": {
+      "columns": 3,
+      "rows": 3,
+      "top": 0,
+      "worldHeight": 1,
+      "captionBand": 0,
+      "anchor": "bounds",
+      "mask": "auto",
+      "rowCuts": [
+        0,
+        0.365,
+        0.65,
+        1
+      ]
+    }
+  },
+  {
+    "id": "pickups_medical",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Recovery pickups — medical supplies.png",
+    "sha256": "3d2161576f1b7fc6cc9547fa51ee654136b5bd7383026d7aa70525b6f0cd1dcc",
+    "profile": {
+      "columns": 3,
+      "rows": 3,
+      "top": 0,
+      "worldHeight": 1,
+      "captionBand": 0,
+      "anchor": "bounds",
+      "mask": "auto",
+      "rowCuts": [
+        0,
+        0.365,
+        0.65,
+        1
+      ]
+    }
+  },
+  {
+    "id": "pickups_drinks",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Recovery pickups drinks and protein.png",
+    "sha256": "14da59182e5831c4fc82807baa7bca95e1f71607822ad815afb652bd1f35f97b",
+    "profile": {
+      "columns": 3,
+      "rows": 3,
+      "top": 0,
+      "worldHeight": 1,
+      "captionBand": 0,
+      "anchor": "bounds",
+      "mask": "auto",
+      "rowCuts": [
+        0,
+        0.365,
+        0.65,
+        1
+      ]
+    }
+  },
+  {
+    "id": "latch_reaction",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Latch Reaction and recovery poses.png",
+    "sha256": "33593b88a3f43793771ced9108362dfbf3739ff69b1cd5e8910cc39f871b25ca",
+    "profile": {
+      "columns": 3,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "rowCuts": [
+        0,
+        0.54,
+        1
+      ],
+      "anchor": "feet",
+      "mask": "auto",
+      "captionBand": 90
+    }
+  },
+  {
+    "id": "stefanie_sidearm",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Stefanie’s Eight-Pose Pistol Action Atlas.png",
+    "sha256": "24c7c1ef9956e8bcdf19856647ed860d2fc379692cd50a1e06169343b9768f74",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "worldHeight": 2.8,
+      "captionBand": 0,
+      "anchor": "feet",
+      "mask": "auto",
+      "pixelsPerUnit": 175,
+      "rowCuts": [
+        0,
+        0.525,
+        1
+      ]
+    }
+  }
+]

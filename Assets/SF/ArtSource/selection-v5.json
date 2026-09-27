@@ -1,0 +1,307 @@
+{
+  "version": "0.5",
+  "entries": [
+    {
+      "id": "silk",
+      "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Silk\u2019s unarmed action keyframes.png",
+      "sourceSha256": "20ce0e0ddf91467cba2e984486dd22e65db2a6fcd73e93abbcc815b671528ca4",
+      "stagedSha256": "20ce0e0ddf91467cba2e984486dd22e65db2a6fcd73e93abbcc815b671528ca4",
+      "profile": {
+        "columns": 4,
+        "rows": 2,
+        "mask": "auto",
+        "anchor": "feet",
+        "pixelsPerUnit": 159
+      },
+      "status": "key poses; locomotion and transitions provisional"
+    },
+    {
+      "id": "ratchet",
+      "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Ratchet Eight Action Keyframes.png",
+      "sourceSha256": "f7774293a3436bbc5eabb3a3d762623ccdfd01a608ec6237ea98488000f23172",
+      "stagedSha256": "f7774293a3436bbc5eabb3a3d762623ccdfd01a608ec6237ea98488000f23172",
+      "profile": {
+        "columns": 4,
+        "rows": 2,
+        "mask": "gray",
+        "anchor": "feet",
+        "pixelsPerUnit": 163,
+        "excludeTopLeft": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 160,
+            "height": 79
+          },
+          {
+            "x": 22,
+            "y": 48,
+            "width": 55,
+            "height": 36
+          },
+          {
+            "x": 22,
+            "y": 529,
+            "width": 55,
+            "height": 36
+          },
+          {
+            "x": 385,
+            "y": 48,
+            "width": 55,
+            "height": 36
+          },
+          {
+            "x": 385,
+            "y": 529,
+            "width": 55,
+            "height": 36
+          },
+          {
+            "x": 781,
+            "y": 48,
+            "width": 55,
+            "height": 36
+          },
+          {
+            "x": 781,
+            "y": 529,
+            "width": 55,
+            "height": 36
+          },
+          {
+            "x": 1180,
+            "y": 48,
+            "width": 55,
+            "height": 36
+          },
+          {
+            "x": 1180,
+            "y": 529,
+            "width": 55,
+            "height": 36
+          },
+          {
+            "x": 1155,
+            "y": 532,
+            "width": 29,
+            "height": 22
+          },
+          {
+            "x": 1173,
+            "y": 47,
+            "width": 10,
+            "height": 23
+          }
+        ]
+      },
+      "status": "key poses; locomotion and transitions provisional"
+    },
+    {
+      "id": "foreman",
+      "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\The Foreman Sledgehammer Action Sheet.png",
+      "sourceSha256": "69116a4b684a1005c20a34bcbebb9b79acf804ec84bd67d03397a4a576546aab",
+      "stagedSha256": "69116a4b684a1005c20a34bcbebb9b79acf804ec84bd67d03397a4a576546aab",
+      "profile": {
+        "columns": 4,
+        "rows": 2,
+        "mask": "gray",
+        "anchor": "feet",
+        "pixelsPerUnit": 156,
+        "excludeTopLeft": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 274,
+            "height": 49
+          },
+          {
+            "x": 22,
+            "y": 48,
+            "width": 55,
+            "height": 36
+          },
+          {
+            "x": 22,
+            "y": 529,
+            "width": 55,
+            "height": 36
+          },
+          {
+            "x": 385,
+            "y": 48,
+            "width": 55,
+            "height": 36
+          },
+          {
+            "x": 385,
+            "y": 529,
+            "width": 55,
+            "height": 36
+          },
+          {
+            "x": 781,
+            "y": 48,
+            "width": 55,
+            "height": 36
+          },
+          {
+            "x": 781,
+            "y": 529,
+            "width": 55,
+            "height": 36
+          },
+          {
+            "x": 1180,
+            "y": 48,
+            "width": 55,
+            "height": 36
+          },
+          {
+            "x": 1180,
+            "y": 529,
+            "width": 55,
+            "height": 36
+          },
+          {
+            "x": 768,
+            "y": 62,
+            "width": 20,
+            "height": 29
+          },
+          {
+            "x": 768,
+            "y": 537,
+            "width": 18,
+            "height": 29
+          },
+          {
+            "x": 16,
+            "y": 537,
+            "width": 10,
+            "height": 29
+          },
+          {
+            "x": 17,
+            "y": 65,
+            "width": 20,
+            "height": 26
+          },
+          {
+            "x": 398,
+            "y": 80,
+            "width": 20,
+            "height": 11
+          }
+        ]
+      },
+      "status": "key poses; locomotion and transitions provisional"
+    },
+    {
+      "id": "cantilever",
+      "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Cantilever unarmed boss action sheet.png",
+      "sourceSha256": "cae461f18fad0037883bd61428a37cc48cff8c84ba6d3cb65819ff53c6e7e988",
+      "stagedSha256": "cae461f18fad0037883bd61428a37cc48cff8c84ba6d3cb65819ff53c6e7e988",
+      "profile": {
+        "columns": 4,
+        "rows": 2,
+        "mask": "auto",
+        "anchor": "feet",
+        "pixelsPerUnit": 150
+      },
+      "status": "key poses; locomotion and transitions provisional"
+    },
+    {
+      "id": "props_sideon",
+      "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Concrete, sandbag, and basalt cover props.png",
+      "sourceSha256": "7e25cae731195ca7dd6e3e454da751a8d0691e439242b075e73b41f6ca3a4e07",
+      "stagedSha256": "7e25cae731195ca7dd6e3e454da751a8d0691e439242b075e73b41f6ca3a4e07",
+      "profile": {
+        "columns": 3,
+        "rows": 2,
+        "mask": "auto",
+        "anchor": "bounds",
+        "pixelsPerUnit": 100
+      },
+      "status": "side-on cover plus canted variants"
+    },
+    {
+      "id": "silk_reaction",
+      "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Silk six-panel reaction study.png",
+      "sourceSha256": "1157daa82e60e16bc1f47b4fd62249f505bccc3d0ea071517dc687c9a42f02c0",
+      "stagedSha256": "1157daa82e60e16bc1f47b4fd62249f505bccc3d0ea071517dc687c9a42f02c0",
+      "profile": {
+        "columns": 3,
+        "rows": 2,
+        "mask": "auto",
+        "anchor": "feet",
+        "pixelsPerUnit": 170
+      },
+      "status": "reaction and knockdown key poses; Silk frame 2 has damaged hand and is not selected for playback"
+    },
+    {
+      "id": "ratchet_reaction",
+      "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Ratchet's six rifle reaction studies.png",
+      "sourceSha256": "a7e42cf4b586e0845369c59bdbb5e739b7cc1af3f822e357af46a9b585c48e66",
+      "stagedSha256": "a7e42cf4b586e0845369c59bdbb5e739b7cc1af3f822e357af46a9b585c48e66",
+      "profile": {
+        "columns": 3,
+        "rows": 2,
+        "mask": "gray",
+        "anchor": "feet",
+        "pixelsPerUnit": 160,
+        "excludeTopLeft": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 455,
+            "height": 36
+          },
+          {
+            "x": 15,
+            "y": 460,
+            "width": 140,
+            "height": 55
+          },
+          {
+            "x": 525,
+            "y": 460,
+            "width": 115,
+            "height": 55
+          },
+          {
+            "x": 1036,
+            "y": 460,
+            "width": 45,
+            "height": 54
+          },
+          {
+            "x": 1036,
+            "y": 484,
+            "width": 200,
+            "height": 26
+          },
+          {
+            "x": 12,
+            "y": 958,
+            "width": 210,
+            "height": 66
+          },
+          {
+            "x": 523,
+            "y": 958,
+            "width": 210,
+            "height": 66
+          },
+          {
+            "x": 1035,
+            "y": 958,
+            "width": 210,
+            "height": 66
+          }
+        ]
+      },
+      "status": "reaction and knockdown key poses; Silk frame 2 has damaged hand and is not selected for playback"
+    }
+  ]
+}

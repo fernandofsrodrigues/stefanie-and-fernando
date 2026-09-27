@@ -1,0 +1,22 @@
+{
+  "columns": 4,
+  "rows": 2,
+  "mask": "gray",
+  "anchor": "feet",
+  "worldHeight": 2.8,
+  "pixelsPerUnit": 166,
+  "excludeTopLeft": [
+    {
+      "x": 0,
+      "y": 478,
+      "width": 1536,
+      "height": 24
+    },
+    {
+      "x": 0,
+      "y": 988,
+      "width": 1536,
+      "height": 36
+    }
+  ]
+}

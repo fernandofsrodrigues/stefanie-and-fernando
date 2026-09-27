@@ -1,0 +1,23 @@
+{
+  "generator": "Built-in OpenAI image generation",
+  "date": "2026-09-23",
+  "original": "C:/Users/rod03/.codex/generated_images/01a0ca62-d7da-7383-a4be-3f8fc0055ece/exec-f03fb2eb-3a64-43f0-b66c-8ca24946e359.png",
+  "source": "GeneratedArt/civil-leg-parts-v074.png",
+  "prompt": "GeneratedArt/civil-leg-parts-v074-prompt.txt",
+  "references": [
+    "UnityProject/Assets/SF/ArtSource/fernando_civil_rifle.png",
+    "UnityProject/Assets/SF/ArtSource/stefanie_civil_rifle.png"
+  ],
+  "integration": "Two civilian neutral leg parts; original RGB source and exact prompt preserved. Cyan background returned by generator; existing Unity importer keys it for runtime. Authored meshes bend independent near/far legs, retaining untouched original upper-body, face and weapon UVs. Military unarmed/pistol movement reuses 0.7.3 field leg parts and original field_actions torsos.",
+  "limitations": [
+    "Layered 2D animation, not captured human motion.",
+    "Near/far legs reuse the outer-leg texture, with far-leg shading.",
+    "Joint and waist blending, foot roll, starts/stops/turns and north/south views still need refinement."
+  ],
+  "sha256": {
+    "GeneratedArt/civil-leg-parts-v074.png": "00b88e1c78497d509ba4d2a0a69555e8638f75d9ef258a9f2ff127dcec8c4f7b",
+    "GeneratedArt/civil-leg-parts-v074-prompt.txt": "8be756bdf7efbbe4e1527287b8288c3f1b4181585200b628e4bf3b4b00c31252",
+    "UnityProject/Assets/SF/ArtSource/fernando_civil_rifle.png": "62d3629784a195365afb93825049152e16b8a9d29cab467bc3316ae827ffcc7b",
+    "UnityProject/Assets/SF/ArtSource/stefanie_civil_rifle.png": "b371f7e525ab21894b5c6c01e378e1589d765cd9f9d2fc175f6565ded1ef49ac"
+  }
+}

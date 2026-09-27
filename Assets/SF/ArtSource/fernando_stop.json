@@ -1,0 +1,18 @@
+{
+  "columns": 3,
+  "rows": 2,
+  "top": 0,
+  "bottom": 0,
+  "worldHeight": 2.8,
+  "mask": "auto",
+  "anchor": "center",
+  "pixelsPerUnit": 162,
+  "excludeTopLeft": [
+    {
+      "x": 1240,
+      "y": 475,
+      "width": 90,
+      "height": 27
+    }
+  ]
+}

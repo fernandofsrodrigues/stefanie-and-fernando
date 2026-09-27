@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 03df3046f6c56bb4d948b75d5c5b6e07
+timeCreated: 1516406980
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 182519
+  packageName: Free Platformer Tileset
+  packageVersion: 1.0
+  assetPath: Assets/Platformer Tileset/Materials/GradientSky/Scripts/Common/GradientSkyCommon.cs
+  uploadId: 399467

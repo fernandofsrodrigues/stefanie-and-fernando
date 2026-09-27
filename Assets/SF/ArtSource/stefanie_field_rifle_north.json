@@ -1,0 +1,15 @@
+{
+  "columns": 4,
+  "rows": 4,
+  "worldHeight": 2.8,
+  "anchor": "bounds",
+  "mask": "cyan",
+  "pixelsPerUnit": 116,
+  "rowCuts": [
+    0,
+    0.25,
+    0.5,
+    0.752,
+    1
+  ]
+}

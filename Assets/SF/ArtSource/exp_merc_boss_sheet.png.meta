@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 1fc42acd5261cc2459e518441ef62a93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -604948428500278717
+    second: exp_merc_boss_sheet_0
+  - first:
+      213: -7669769742724161580
+    second: exp_merc_boss_sheet_1
+  - first:
+      213: 6912782341182957732
+    second: exp_merc_boss_sheet_2
+  - first:
+      213: -973603866662649965
+    second: exp_merc_boss_sheet_3
+  - first:
+      213: 8635637714869413438
+    second: exp_merc_boss_sheet_4
+  - first:
+      213: -5244975304736445276
+    second: exp_merc_boss_sheet_5
+  - first:
+      213: -6655982756844060909
+    second: exp_merc_boss_sheet_6
+  - first:
+      213: 1305632874454930576
+    second: exp_merc_boss_sheet_7
+  - first:
+      213: -7571128786916821953
+    second: exp_merc_boss_sheet_8
+  - first:
+      213: 3722739035654019141
+    second: exp_merc_boss_sheet_9
+  - first:
+      213: 4244195717904323453
+    second: exp_merc_boss_sheet_10
+  - first:
+      213: 9092292402025698565
+    second: exp_merc_boss_sheet_11
+  - first:
+      213: -4678587927256086206
+    second: exp_merc_boss_sheet_12
+  - first:
+      213: -9188542480191909084
+    second: exp_merc_boss_sheet_13
+  - first:
+      213: -7858116512268655242
+    second: exp_merc_boss_sheet_14
+  - first:
+      213: 6628200303842062467
+    second: exp_merc_boss_sheet_15
+  - first:
+      213: 4732654547077024389
+    second: exp_merc_boss_sheet_16
+  - first:
+      213: 4666147755195946358
+    second: exp_merc_boss_sheet_17
+  - first:
+      213: 285804392418181873
+    second: exp_merc_boss_sheet_18
+  - first:
+      213: 442405196748128405
+    second: exp_merc_boss_sheet_19
+  - first:
+      213: -6136197184555843522
+    second: exp_merc_boss_sheet_20
+  - first:
+      213: 3519522124161805530
+    second: exp_merc_boss_sheet_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: exp_merc_boss_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1021
+        width: 174
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3426fc30c9aca97f0800000000000000
+      internalID: -604948428500278717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_merc_boss_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 783
+        width: 287
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df13ef1e018f8590800000000000000
+      internalID: -7669769742724161580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_merc_boss_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1278
+        width: 233
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8adcfe9e22fef50800000000000000
+      internalID: 6912782341182957732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_merc_boss_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1461
+        width: 77
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f30af01701d72f0800000000000000
+      internalID: -973603866662649965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_merc_boss_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1032
+        width: 168
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36e1c38fb2f7d770800000000000000
+      internalID: 8635637714869413438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_merc_boss_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1127
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acec79dfba1637b0800000000000000
+      internalID: -5244975304736445276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_merc_boss_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1027
+        width: 249
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f3f2392f231a3a0800000000000000
+      internalID: -6655982756844060909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_merc_boss_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 531
+        width: 219
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09455f88e2a8e1210800000000000000
+      internalID: 1305632874454930576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_merc_boss_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 783
+        width: 232
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34b61b5b72fde690800000000000000
+      internalID: -7571128786916821953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_merc_boss_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 531
+        width: 259
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54853a3dd63d9a330800000000000000
+      internalID: 3722739035654019141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_merc_boss_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 782
+        width: 244
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73dbeac48966ea30800000000000000
+      internalID: 4244195717904323453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_merc_boss_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 533
+        width: 229
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50599b044cf4e2e70800000000000000
+      internalID: 9092292402025698565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_merc_boss_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 503
+        width: 257
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24948718111521fb0800000000000000
+      internalID: -4678587927256086206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_merc_boss_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 771
+        width: 199
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42313981c4dbb7080800000000000000
+      internalID: -9188542480191909084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_merc_boss_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 303
+        width: 225
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675689a8aac52f290800000000000000
+      internalID: -7858116512268655242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_merc_boss_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 352
+        width: 223
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38074a20f091cfb50800000000000000
+      internalID: 6628200303842062467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_merc_boss_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 163
+        width: 297
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ac9236c34cda140800000000000000
+      internalID: 4732654547077024389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_merc_boss_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 306
+        width: 198
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675d0f939ac71c040800000000000000
+      internalID: 4666147755195946358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_merc_boss_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 259
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f20555a49167f300800000000000000
+      internalID: 285804392418181873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_merc_boss_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 41
+        width: 193
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59085f6be2db32600800000000000000
+      internalID: 442405196748128405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_merc_boss_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 45
+        width: 293
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e300cceeb29d7daa0800000000000000
+      internalID: -6136197184555843522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_merc_boss_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 44
+        width: 142
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adceac589bad7d030800000000000000
+      internalID: 3519522124161805530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      exp_merc_boss_sheet_0: -604948428500278717
+      exp_merc_boss_sheet_1: -7669769742724161580
+      exp_merc_boss_sheet_10: 4244195717904323453
+      exp_merc_boss_sheet_11: 9092292402025698565
+      exp_merc_boss_sheet_12: -4678587927256086206
+      exp_merc_boss_sheet_13: -9188542480191909084
+      exp_merc_boss_sheet_14: -7858116512268655242
+      exp_merc_boss_sheet_15: 6628200303842062467
+      exp_merc_boss_sheet_16: 4732654547077024389
+      exp_merc_boss_sheet_17: 4666147755195946358
+      exp_merc_boss_sheet_18: 285804392418181873
+      exp_merc_boss_sheet_19: 442405196748128405
+      exp_merc_boss_sheet_2: 6912782341182957732
+      exp_merc_boss_sheet_20: -6136197184555843522
+      exp_merc_boss_sheet_21: 3519522124161805530
+      exp_merc_boss_sheet_3: -973603866662649965
+      exp_merc_boss_sheet_4: 8635637714869413438
+      exp_merc_boss_sheet_5: -5244975304736445276
+      exp_merc_boss_sheet_6: -6655982756844060909
+      exp_merc_boss_sheet_7: 1305632874454930576
+      exp_merc_boss_sheet_8: -7571128786916821953
+      exp_merc_boss_sheet_9: 3722739035654019141
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

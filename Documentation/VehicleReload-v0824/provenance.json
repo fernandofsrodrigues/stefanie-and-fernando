@@ -1,0 +1,42 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "reference": "UnityProject/Assets/SF/ArtSource/vehicle_pickup_guns.png",
+  "referenceSHA256": "26f93d38848ba8c39b76669bc4a10ca57f1fb0a3185b5aeb09b29bd0ba74733f",
+  "calls": 2,
+  "outputs": 2,
+  "blocked": 0,
+  "assets": [
+    {
+      "id": "vehicle_pickup_reload_pistol",
+      "generatedSource": "C:\\Users\\rod03\\.codex\\generated_images\\01a0ca62-d7da-7383-a4be-3f8fc0055ece\\exec-5d74eb2a-73dc-42b9-93bb-256e9455f04b.png",
+      "preservedSource": "pistol-source.png",
+      "sha256": "15731fd8dda4d342a82716e8bcf58d597815b0ba584078780f8a154222f85b6a",
+      "exactPromptFile": "pistol-prompt.txt",
+      "exactPrompt": "Edit the supplied game sprite sheet into exactly ONE COLUMN and TWO equal-height ROWS, showing two consecutive PISTOL RELOAD poses of the same adult male rear passenger. Both rows use the exact same full blue pickup from the reference, right-facing, orthographic side view, same silhouette, wheel centers, body panels, lighting, camera, scale and margins. Preserve Stefanie, the blonde adult woman driving in a white shirt, unchanged with both hands on steering wheel and looking RIGHT. Preserve Fernando's short dark hair, face, muscular arms, black shirt and rear seat. Only Fernando's arms and pistol pose change. TOP ROW: Fernando has withdrawn the compact black pistol close to his chest, barrel angled slightly up and LEFT away from the driver, right hand holds grip, left hand holds a small detached black pistol magazine just below the grip, distinct plausible hands. BOTTOM ROW: same close-held pistol and head, left hand seats that magazine into the grip while right hand supports pistol; clearly a different hand pose from the top row. His torso stays inside the rear window. No aiming arm stretched out, no rifle, no firing, no targets, no victims, no violence, no text, no extra people, no diagram arrows. These are non-graphic fictional arcade game animation assets. Entire truck including tires fits in each row without cropping. Crisp realistic cutout texture, consistent face and mechanical detail. Flat uniform cyan #B8F3F5 background everywhere outside truck and through empty windows, no shadows on background, no white borders. Keep vehicle and driver virtually pixel aligned between both rows for stable animation. Output 2048x1536 if possible.",
+      "layout": {
+        "columns": 1,
+        "rows": 2,
+        "mask": "cyan",
+        "anchor": "bounds",
+        "pixelsPerUnit": 250
+      },
+      "review": "Accepted source view: two distinct magazine handling poses; same right-facing blue pickup, driver, crew identity, body panels and wheel registration. Runtime cyan masking, wheel registration and native game-size captures reviewed; the Web SCAR reload HUD also inspected. Not a complete mechanically simulated reload."
+    },
+    {
+      "id": "vehicle_pickup_reload_rifle",
+      "generatedSource": "C:\\Users\\rod03\\.codex\\generated_images\\01a0ca62-d7da-7383-a4be-3f8fc0055ece\\exec-2a29ffc7-0ada-4bae-90ff-589f98232493.png",
+      "preservedSource": "rifle-source.png",
+      "sha256": "464c3dafc960efe5b5b7328759f54307fba5dbc019f3e68acd83cfe05828401c",
+      "exactPromptFile": "rifle-prompt.txt",
+      "exactPrompt": "Edit the supplied game sprite sheet into exactly ONE COLUMN and TWO equal-height ROWS, showing two consecutive RIFLE RELOAD poses of the same adult male rear passenger. Both rows use the exact same full blue pickup from the reference, right-facing, orthographic side view, same silhouette, wheel centers, body panels, lighting, camera, scale and margins. Preserve Stefanie, the blonde adult woman driving in a white shirt, unchanged with both hands on steering wheel and looking RIGHT. Preserve Fernando's short dark hair, face, muscular arms, black shirt and rear seat. Only Fernando's arms and rifle pose change. TOP ROW: Fernando has lowered the tan SCAR-H-style fictional battle rifle close to his chest within the rear window, barrel pointing LEFT and slightly upward away from the driver, right hand holds grip, left hand holds a detached tan rectangular rifle magazine below the empty magazine well. BOTTOM ROW: same close-held rifle, barrel and head, left hand presses that magazine into the magazine well while right hand supports the grip; clearly a different hand pose from the top row. Stock stays close to torso; plausible two hands and fingers. No pistol, no firing, no targets, no victims, no violence, no text, no extra people, no diagram arrows. These are non-graphic fictional arcade game animation assets. Entire truck including tires fits in each row without cropping. Crisp realistic cutout texture, consistent face and mechanical detail. Flat uniform cyan #B8F3F5 background everywhere outside truck and through empty windows, no shadows on background, no white borders. Keep vehicle and driver virtually pixel aligned between both rows for stable animation. Output 2048x1536 if possible.",
+      "layout": {
+        "columns": 1,
+        "rows": 2,
+        "mask": "cyan",
+        "anchor": "bounds",
+        "pixelsPerUnit": 250
+      },
+      "review": "Accepted source view: two distinct magazine handling poses; same right-facing blue pickup, driver, crew identity, body panels and wheel registration. Runtime cyan masking, wheel registration and native game-size captures reviewed; the Web SCAR reload HUD also inspected. Not a complete mechanically simulated reload."
+    }
+  ]
+}

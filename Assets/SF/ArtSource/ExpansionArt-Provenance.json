@@ -1,0 +1,275 @@
+{
+  "sources": [
+    {
+      "id": "exp_smuggler_sheet",
+      "original_filename": "Unarmed Smuggler Action Sprite Atlas.png",
+      "sha256": "527708e8d0ae0f7c771fbaea6aa68968e35cc03cc13bf4b7c93b415198f653c5",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "layout": {
+        "columns": 4,
+        "rows": 6,
+        "mask": "auto",
+        "anchor": "feet",
+        "worldHeight": 2.8,
+        "pixelsPerUnit": 88.214286,
+        "rootX": [
+          127.75120544433594,
+          389.38226318359375,
+          631.0,
+          887.0595703125,
+          128.0,
+          379.0,
+          630.0,
+          893.0,
+          197.04281616210938,
+          327.1838684082031,
+          732.520263671875,
+          837.6740112304688,
+          124.0945053100586,
+          380.8735656738281,
+          592.4627685546875,
+          863.3163452148438,
+          112.35380554199219,
+          395.01898193359375,
+          618.3729858398438,
+          970.0478515625,
+          100.82637023925781,
+          390.29144287109375,
+          619.7973022460938,
+          888.3930053710938
+        ]
+      },
+      "provenance": "User-supplied generated art. Exact original generation prompt unavailable; not reconstructed or invented. Original PNG copied byte-for-byte.",
+      "selected_variant": "original",
+      "topaz_status": "Comparison prepared where supplied; not selected before integrated game-size/memory review."
+    },
+    {
+      "id": "exp_smuggler_shotgun_sheet",
+      "original_filename": "Shotgun-wielding smuggler sprite atlas.png",
+      "sha256": "a93a5840465bad11c3bf33afdc4a9811860b75e64a33ce8cbb3be7b6ccf6a38e",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "layout": {
+        "columns": 4,
+        "rows": 6,
+        "mask": "white-strict",
+        "anchor": "feet",
+        "worldHeight": 2.8,
+        "pixelsPerUnit": 97.5,
+        "rootX": [
+          124.49171447753906,
+          382.5079040527344,
+          629.8324584960938,
+          891.5465698242188,
+          133.0,
+          394.0,
+          635.0,
+          902.0,
+          211.42584228515625,
+          315.7261962890625,
+          724.2757568359375,
+          838.5866088867188,
+          102.25396728515625,
+          394.2749328613281,
+          638.9771728515625,
+          909.777587890625,
+          88.54255676269531,
+          385.5596618652344,
+          627.8030395507812,
+          966.4296264648438,
+          102.614501953125,
+          383.7203674316406,
+          620.6677856445312,
+          921.2975463867188
+        ]
+      },
+      "provenance": "User-supplied generated art. Exact original generation prompt unavailable; not reconstructed or invented. Original PNG copied byte-for-byte.",
+      "selected_variant": "original",
+      "topaz_status": "Comparison prepared where supplied; not selected before integrated game-size/memory review."
+    },
+    {
+      "id": "exp_raider_sheet",
+      "original_filename": "Unarmed raider action sprite atlas.png",
+      "sha256": "6b23da5def1b6fd0bec9e380def02d9c72ded9f073c5c4e6ec611c15185a6e25",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "layout": {
+        "columns": 4,
+        "rows": 6,
+        "mask": "auto",
+        "anchor": "feet",
+        "worldHeight": 2.8,
+        "pixelsPerUnit": 89.285714,
+        "rootX": [
+          138.9701690673828,
+          390.5812683105469,
+          635.8095703125,
+          888.5614624023438,
+          135.0,
+          395.0,
+          640.0,
+          904.0,
+          213.0,
+          332.73004150390625,
+          682.2069091796875,
+          859.1644897460938,
+          111.51837158203125,
+          370.60369873046875,
+          622.0379638671875,
+          854.2647094726562,
+          116.30812072753906,
+          400.28741455078125,
+          641.5833129882812,
+          948.7120361328125,
+          131.08193969726562,
+          399.31005859375,
+          601.3901977539062,
+          897.9185180664062
+        ]
+      },
+      "provenance": "User-supplied generated art. Exact original generation prompt unavailable; not reconstructed or invented. Original PNG copied byte-for-byte.",
+      "selected_variant": "original",
+      "topaz_status": "Comparison prepared where supplied; not selected before integrated game-size/memory review."
+    },
+    {
+      "id": "exp_merc_boss_sheet",
+      "original_filename": "Mercenary boss action sprite atlas.png",
+      "sha256": "4bfdaad3538247a91580e9d847fdad93d305e8106e4a7f21f8ea720566128310",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "layout": {
+        "columns": 4,
+        "rows": 6,
+        "mask": "auto",
+        "anchor": "feet",
+        "worldHeight": 3.15,
+        "pixelsPerUnit": 79.047619,
+        "rootX": [
+          124.55438232421875,
+          380.1015625,
+          632.9900512695312,
+          868.6082763671875,
+          127.0,
+          392.0,
+          632.0,
+          899.0,
+          215.8518524169922,
+          326.5727844238281,
+          736.875,
+          845.8719482421875,
+          125.02328491210938,
+          365.8978271484375,
+          637.4248657226562,
+          865.2271728515625,
+          104.30815887451172,
+          382.9505615234375,
+          626.2224731445312,
+          946.1185302734375,
+          129.51800537109375,
+          373.1808776855469,
+          614.2415771484375,
+          903.5843505859375
+        ]
+      },
+      "provenance": "User-supplied generated art. Exact original generation prompt unavailable; not reconstructed or invented. Original PNG copied byte-for-byte.",
+      "selected_variant": "original",
+      "topaz_status": "Comparison prepared where supplied; not selected before integrated game-size/memory review."
+    },
+    {
+      "id": "exp_armored_boss_sheet",
+      "original_filename": "Armored boss action sprite atlas.png",
+      "sha256": "5e13c241344cd62ddf65196ab66ffc27c53b4b701a1d6164aaf0c1a25001e104",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "layout": {
+        "columns": 4,
+        "rows": 6,
+        "mask": "auto",
+        "anchor": "feet",
+        "worldHeight": 3.15,
+        "pixelsPerUnit": 78.095238,
+        "rootX": [
+          130.345458984375,
+          376.6540832519531,
+          630.6162719726562,
+          883.1500854492188,
+          134.0,
+          398.0,
+          651.0,
+          906.0,
+          204.32142639160156,
+          331.04095458984375,
+          623.3333129882812,
+          836.4763793945312,
+          146.39215087890625,
+          325.4884948730469,
+          649.064208984375,
+          886.548583984375,
+          92.46601867675781,
+          365.30462646484375,
+          614.719970703125,
+          954.0126342773438,
+          123.80187225341797,
+          388.3622741699219,
+          632.8072509765625,
+          893.0079345703125
+        ]
+      },
+      "provenance": "User-supplied generated art. Exact original generation prompt unavailable; not reconstructed or invented. Original PNG copied byte-for-byte.",
+      "selected_variant": "original",
+      "topaz_status": "Comparison prepared where supplied; not selected before integrated game-size/memory review."
+    },
+    {
+      "id": "plate_rio_redeemer",
+      "original_filename": "Golden Terrace Beneath Christ the Redeemer.png",
+      "sha256": "26a7016480bbbc73b47e4825191641f1e6b7acdb2aba84d95566c49e998af94f",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "mode": "RGB",
+      "layout": {
+        "columns": 1,
+        "rows": 1
+      },
+      "provenance": "User-supplied generated art. Exact original generation prompt unavailable; not reconstructed or invented. Original PNG copied byte-for-byte.",
+      "selected_variant": "original",
+      "topaz_status": "Comparison prepared where supplied; not selected before integrated game-size/memory review."
+    },
+    {
+      "id": "plate_desert_outskirts",
+      "original_filename": "Desert Outskirts with Date Palms.png",
+      "sha256": "f060342b3bfb94fe812ce57e133735bc84b75970e82b4f19370b10b29b263337",
+      "dimensions": [
+        2172,
+        724
+      ],
+      "mode": "RGB",
+      "layout": {
+        "columns": 1,
+        "rows": 1
+      },
+      "provenance": "User-supplied generated art. Exact original generation prompt unavailable; not reconstructed or invented. Original PNG copied byte-for-byte.",
+      "selected_variant": "original",
+      "topaz_status": "Comparison prepared where supplied; not selected before integrated game-size/memory review."
+    }
+  ],
+  "privacy": "Only named generated game art. No gear photographs or saved conversations.",
+  "runtime_aliases": "SFExpansionArt.cs records all source-frame selections. Existing regional plate aliases reuse textures without duplication."
+}

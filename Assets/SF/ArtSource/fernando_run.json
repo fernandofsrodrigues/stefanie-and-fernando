@@ -1,0 +1,10 @@
+{
+  "columns": 4,
+  "rows": 2,
+  "top": 42,
+  "worldHeight": 2.8,
+  "captionBand": 0,
+  "anchor": "center",
+  "mask": "cyan",
+  "groundFraction": 0.025
+}

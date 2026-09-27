@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Stefanie &amp; Fernando — After the Rain</title>
+  <style>
+    :root{color-scheme:dark;font-family:Segoe UI,Arial,sans-serif;background:#081218;color:#e5eded}
+    *{box-sizing:border-box}body{margin:0;min-height:100vh;display:grid;place-items:center;background:radial-gradient(ellipse at top,#173239,#081218 70%)}
+    main{width:min(100vw,calc((100dvh - 108px)*16/9));padding:0}header,footer{display:flex;justify-content:space-between;align-items:center;gap:12px}
+    header{height:38px;padding:0 8px}h1{font-size:16px;font-weight:600;margin:0}small,.hint{color:#91acad;font-size:13px;line-height:1.5}.tag{color:#e6b776;letter-spacing:.1em;font-size:11px}
+    #stage{position:relative;aspect-ratio:16/9;background:#081218;box-shadow:0 20px 70px #0008;border:1px solid #35505a;overflow:hidden}
+    canvas{touch-action:none;user-select:none;-webkit-user-select:none;display:block;width:100%;height:100%;outline:none}#stage:fullscreen{width:100vw;height:100vh;border:0;aspect-ratio:auto}
+    #loading{position:absolute;inset:0;display:grid;place-content:center;text-align:center;padding:18px;background:#0b1b22}#loading h2{letter-spacing:.08em;font-size:clamp(16px,2.4vw,24px);font-weight:500;margin:0 0 18px}progress{width:min(300px,65vw);height:6px;accent-color:#e6b776;margin:16px auto 8px}#load-percent{color:#e6b776;font-variant-numeric:tabular-nums}.loading-note{max-width:46ch;margin:16px auto 0}
+    #error{display:none;position:absolute;inset:8%;padding:24px;background:#241b1b;color:#ffe0cb;overflow:auto}#error h2{margin-top:0}#error p{line-height:1.5}#error details{margin:18px 0}#error-detail{white-space:pre-wrap;overflow-wrap:anywhere;font-size:12px}#error button{margin-top:4px}
+    footer{min-height:70px;padding:6px 8px}.hint{margin:0}.hint b{font-weight:500;color:#cae0dc}button{border:1px solid #4f696c;background:#10272d;color:#d7e6e3;padding:8px 12px;white-space:nowrap;cursor:pointer;font:inherit;font-size:13px}button:hover:not(:disabled){border-color:#e6b776;color:#e6b776}button:focus-visible{outline:2px solid #e6b776;outline-offset:3px}button:disabled{opacity:.45;cursor:wait}
+    @media(max-width:750px){h1{font-size:14px}.tag{font-size:9px}.hint{font-size:11px}}
+    @media(pointer:coarse){html,body{height:100dvh;min-height:0;overflow:hidden}main{width:100vw;padding:0}header,footer{display:none}#stage{height:100dvh;width:100vw;aspect-ratio:auto}}
+  </style>
+</head>
+<body>
+<main>
+  <header><h1>Stefanie &amp; Fernando</h1><span class="tag">AFTER THE RAIN &middot; 0.8.47</span></header>
+  <div id="stage" aria-busy="true">
+    <canvas id="game" tabindex="0" aria-label="Stefanie and Fernando game canvas"></canvas>
+    <div id="loading"><h2>TOGETHER, THROUGH EVERYTHING</h2><small id="load-status" role="status">Loading your adventure...</small><progress id="progress" max="1" value="0" aria-label="Game loading progress"></progress><small id="load-percent" aria-hidden="true">0%</small><small class="loading-note">First load downloads about 490 MB. Keep this tab open; starting the game may take a moment.</small><noscript>Enable JavaScript in your browser to play.</noscript></div>
+    <div id="error" role="alert"><h2>The adventure couldn't start</h2><p>Check your connection, then try again. Reloading starts a new session.</p><button id="retry" type="button">Reload game</button><details><summary>Error details</summary><p id="error-detail"></p></details></div>
+  </div>
+  <footer>
+    <p class="hint">A/D move &middot; Shift run &middot; Space jump &middot; E collect/revive/extract<br>J punch &middot; K kick &middot; L guard &middot; F fire &middot; R reload<br>Tab switch lead &middot; V assist &middot; P / Esc pause &middot; H help</p>
+    <button id="fullscreen" type="button" disabled>Full screen &#8599;</button>
+  </footer>
+</main>
+<script>
+  const canvas=document.getElementById('game'),loading=document.getElementById('loading'),error=document.getElementById('error');
+  const stage=document.getElementById('stage'),fullscreen=document.getElementById('fullscreen'),loadStatus=document.getElementById('load-status');
+  let loadFailed=false;
+  function fail(message){loadFailed=true;document.getElementById('error-detail').textContent=message;error.style.display='block';loading.style.display='none';stage.setAttribute('aria-busy','false');fullscreen.disabled=true;document.getElementById('retry').focus();}
+  document.getElementById('retry').onclick=()=>location.reload();
+  function loadingProgress(p){const value=Math.max(0,Math.min(1,p));document.getElementById('progress').value=value;document.getElementById('load-percent').textContent=Math.floor(value*100)+'%';if(value>=.9&&loadStatus.textContent!=='Starting your adventure...')loadStatus.textContent='Starting your adventure...';}
+  const config={dataUrl:'{{DATA}}',frameworkUrl:'{{FRAMEWORK}}',codeUrl:'{{CODE}}',streamingAssetsUrl:'StreamingAssets',companyName:'Stefanie and Fernando',productName:'Stefanie & Fernando',productVersion:'0.8.47',fullscreenElementID:'stage',devicePixelRatio:Math.min(window.devicePixelRatio||1,1.5),showBanner:(message,type)=>{if(type==='error')fail(message);else console.warn(message);}};
+  const loader=document.createElement('script');loader.src='{{LOADER}}';loader.onerror=()=>fail('The game files could not load. Check your connection and reload this page.');
+  loader.onload=()=>createUnityInstance(canvas,config,loadingProgress).then(instance=>{
+    if(loadFailed)return;
+    loading.style.display='none';stage.setAttribute('aria-busy','false');fullscreen.disabled=false;canvas.focus();
+    instance.SendMessage('SF Demo','InitializeTouch',matchMedia('(pointer: coarse)').matches?'1':'0');
+    if(new URLSearchParams(location.search).get('qa')==='drive')instance.SendMessage('SF Demo','RunDriveQA');
+    if(new URLSearchParams(location.search).get('qa')==='courserules')instance.SendMessage('SF Demo','RunCourseRulesQA');
+    if(new URLSearchParams(location.search).get('qa')==='course')instance.SendMessage('SF Demo','RunCourseQA');
+    if(new URLSearchParams(location.search).get('qa')==='rio')instance.SendMessage('SF Demo','RunChapterQA','1');
+    if(new URLSearchParams(location.search).get('qa')==='anbar')instance.SendMessage('SF Demo','RunChapterQA','2');
+    if(new URLSearchParams(location.search).get('qa')==='chapterflow')instance.SendMessage('SF Demo','RunChapterFlowQA');
+    if(new URLSearchParams(location.search).get('qa')==='chapterselect')instance.SendMessage('SF Demo','RunChapterSelectQA');
+    if(new URLSearchParams(location.search).get('qa')==='clinch')instance.SendMessage('SF Demo','RunClinchQA');
+      if(new URLSearchParams(location.search).get('qa')==='takedown')instance.SendMessage('SF Demo','RunTakedownQA');
+      if(new URLSearchParams(location.search).get('qa')==='enemyfirearms')instance.SendMessage('SF Demo','RunEnemyFirearmsQA');
+    if(new URLSearchParams(location.search).get('qa')==='gamepad')instance.SendMessage('SF Demo','RunGamepadQA');
+    const pause=()=>instance.SendMessage('SF Demo','PauseForInterruption');
+    window.addEventListener('blur',pause);
+    document.addEventListener('visibilitychange',()=>{if(document.hidden)pause();});
+    document.addEventListener('fullscreenchange',()=>{if(!document.fullscreenElement)pause();});
+    fullscreen.onclick=()=>{instance.SetFullscreen(1);canvas.focus();};
+  }).catch(e=>fail(String(e)));
+  canvas.addEventListener('pointerdown',()=>canvas.focus());
+  canvas.addEventListener('contextmenu',e=>e.preventDefault());
+  for(const event of ['mousedown','mouseup','auxclick'])canvas.addEventListener(event,e=>{if(e.button>=1)e.preventDefault();});
+  canvas.addEventListener('wheel',e=>e.preventDefault(),{passive:false});
+  document.head.appendChild(loader);
+</script>
+</body>
+</html>

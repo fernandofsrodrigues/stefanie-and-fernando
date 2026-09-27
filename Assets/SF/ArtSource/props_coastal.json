@@ -1,0 +1,24 @@
+{
+  "columns": 3,
+  "rows": 2,
+  "top": 0,
+  "bottom": 0,
+  "worldHeight": 2.8,
+  "mask": "cyan",
+  "anchor": "bounds",
+  "pixelsPerUnit": 100,
+  "excludeTopLeft": [
+    {
+      "x": 0,
+      "y": 422,
+      "width": 1536,
+      "height": 55
+    },
+    {
+      "x": 0,
+      "y": 885,
+      "width": 1536,
+      "height": 55
+    }
+  ]
+}

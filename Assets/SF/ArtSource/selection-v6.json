@@ -1,0 +1,288 @@
+[
+  {
+    "id": "plate_title",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Stefanie and Fernando After Rain.png",
+    "sha256": "67271b99fe3c910d2680b411f3582062d8634bb4dbfc800b253238a133cdbaaf",
+    "profile": {
+      "columns": 1,
+      "rows": 1,
+      "anchor": "feet",
+      "mask": "cyan",
+      "pixelsPerUnit": 100
+    }
+  },
+  {
+    "id": "fernando_aerial",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Fernando\u2019s Airborne Kick Sequence.png",
+    "sha256": "b0ee73551671422ec9d73cff5ed5a6ced436cfdcc919850c08117230eb8b22af",
+    "profile": {
+      "columns": 3,
+      "rows": 2,
+      "anchor": "feet",
+      "mask": "cyan",
+      "pixelsPerUnit": 170
+    }
+  },
+  {
+    "id": "stefanie_aerial",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Stefanie\u2019s six-frame airborne side kick.png",
+    "sha256": "d1ec6812aa32c2e18a4214c05fee6c5cab88ae752ff368b040874a392defcfa9",
+    "profile": {
+      "columns": 3,
+      "rows": 2,
+      "anchor": "feet",
+      "mask": "cyan",
+      "pixelsPerUnit": 170
+    }
+  },
+  {
+    "id": "fernando_field_aerial",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Fernando's Airborne Desert Kick Sequence.png",
+    "sha256": "138804ab764e6019f013c78924a1f20a485f7721ef9c2b13615e4f0a36207c6c",
+    "profile": {
+      "columns": 3,
+      "rows": 2,
+      "anchor": "feet",
+      "mask": "cyan",
+      "pixelsPerUnit": 170
+    }
+  },
+  {
+    "id": "stefanie_field_aerial",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\OCP Gear Airborne Kick Sequence.png",
+    "sha256": "36c60614b6bd31e9b0263ee82a4c863ebff90410fcd02a721a3df4290efb0f0a",
+    "profile": {
+      "columns": 3,
+      "rows": 2,
+      "anchor": "feet",
+      "mask": "cyan",
+      "pixelsPerUnit": 170
+    }
+  },
+  {
+    "id": "fernando_cover",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Nine-pose side-profile kneeling study.png",
+    "sha256": "66504eb04b7a8a36c34b02f4bf1227a11a796a6341f8a4d7faa0664639b6312f",
+    "profile": {
+      "columns": 3,
+      "rows": 3,
+      "anchor": "feet",
+      "mask": "cyan",
+      "pixelsPerUnit": 182
+    }
+  },
+  {
+    "id": "stefanie_cover",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Nine-pose side-profile transition contact sheet.png",
+    "sha256": "107ec224d8d34effbbc3495872b4b669d501667852ecb34f07ef51a53864d577",
+    "profile": {
+      "columns": 3,
+      "rows": 3,
+      "anchor": "feet",
+      "mask": "cyan",
+      "pixelsPerUnit": 182
+    }
+  },
+  {
+    "id": "fernando_field_move",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Fernando\u2019s Military Locomotion Pose Sheet.png",
+    "sha256": "f3d963a0e2d014a3e528ddc62143a55d89580e717836eb8482d1f517125fd00b",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "anchor": "feet",
+      "mask": "cyan",
+      "pixelsPerUnit": 169
+    }
+  },
+  {
+    "id": "fernando_field_reaction",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Fernando\u2019s Military Reaction Poses.png",
+    "sha256": "7ea08dc15a3d6932ba7a00e00ed3b74fa8641cb491e10e7880c129b1fbe48134",
+    "profile": {
+      "columns": 3,
+      "rows": 2,
+      "anchor": "feet",
+      "mask": "gray",
+      "pixelsPerUnit": 170,
+      "excludeTopLeft": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 1536,
+          "height": 38
+        },
+        {
+          "x": 20,
+          "y": 48,
+          "width": 52,
+          "height": 28
+        },
+        {
+          "x": 20,
+          "y": 524,
+          "width": 52,
+          "height": 28
+        },
+        {
+          "x": 545,
+          "y": 48,
+          "width": 52,
+          "height": 28
+        },
+        {
+          "x": 545,
+          "y": 524,
+          "width": 52,
+          "height": 28
+        },
+        {
+          "x": 1055,
+          "y": 48,
+          "width": 52,
+          "height": 28
+        },
+        {
+          "x": 1055,
+          "y": 524,
+          "width": 52,
+          "height": 28
+        }
+      ]
+    }
+  },
+  {
+    "id": "stefanie_field_reaction",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Stefanie\u2019s Six-Pose Military Reaction Sheet.png",
+    "sha256": "526c9060fcefcaf4769eac24035b149d07b4d66d83d1ae45197771862c4f48d3",
+    "profile": {
+      "columns": 3,
+      "rows": 2,
+      "anchor": "feet",
+      "mask": "gray",
+      "pixelsPerUnit": 172,
+      "excludeTopLeft": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 550,
+          "height": 25
+        },
+        {
+          "x": 55,
+          "y": 55,
+          "width": 35,
+          "height": 26
+        },
+        {
+          "x": 55,
+          "y": 565,
+          "width": 35,
+          "height": 26
+        },
+        {
+          "x": 545,
+          "y": 55,
+          "width": 35,
+          "height": 26
+        },
+        {
+          "x": 545,
+          "y": 565,
+          "width": 35,
+          "height": 26
+        },
+        {
+          "x": 1055,
+          "y": 55,
+          "width": 35,
+          "height": 26
+        },
+        {
+          "x": 1055,
+          "y": 565,
+          "width": 35,
+          "height": 26
+        }
+      ]
+    }
+  },
+  {
+    "id": "fernando_field_actions",
+    "source": "C:\\Users\\rod03\\.codex\\generated_images\\01a0ca62-d7da-7383-a4be-3f8fc0055ece\\exec-ce7481dc-db63-480f-8e40-817e4f96cece.png",
+    "sha256": "568f862c7ee96c0ddeef0ba26ded26c37b305f0eb428334711a6c37d55da980c",
+    "origin": "Codex imagegen",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "mask": "cyan",
+      "anchor": "feet",
+      "pixelsPerUnit": 169
+    }
+  },
+  {
+    "id": "stefanie_field_actions",
+    "source": "C:\\Users\\rod03\\.codex\\generated_images\\01a0ca62-d7da-7383-a4be-3f8fc0055ece\\exec-8489a23d-66e8-4513-b702-b041f72272da.png",
+    "sha256": "44b777cbc2c3db37d6e663eade059b0a7413f5b61f839a84a8458ac8281bc0f5",
+    "origin": "Codex imagegen",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "mask": "cyan",
+      "anchor": "feet",
+      "pixelsPerUnit": 169
+    }
+  },
+  {
+    "id": "fernando_field_utility",
+    "source": "C:\\Users\\rod03\\.codex\\generated_images\\01a0ca62-d7da-7383-a4be-3f8fc0055ece\\exec-d4d2a11b-7a1b-4e82-95aa-8476c8827a85.png",
+    "sha256": "d76df4db579cacb635aed309682bcf7cce0ee2c3af933025fcf3da2ab617e260",
+    "origin": "Codex imagegen",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "mask": "cyan",
+      "anchor": "feet",
+      "pixelsPerUnit": 169
+    }
+  },
+  {
+    "id": "stefanie_field_utility",
+    "source": "C:\\Users\\rod03\\.codex\\generated_images\\01a0ca62-d7da-7383-a4be-3f8fc0055ece\\exec-276b26ab-e9d9-424a-960b-8c11bcbba712.png",
+    "sha256": "86475488f8deef92839d9e0fe058bb7c838781829750660093ab1893d69f494b",
+    "origin": "Codex imagegen",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "mask": "cyan",
+      "anchor": "feet",
+      "pixelsPerUnit": 169
+    }
+  },
+  {
+    "id": "fernando_field_ground",
+    "source": "C:\\Users\\rod03\\.codex\\generated_images\\01a0ca62-d7da-7383-a4be-3f8fc0055ece\\exec-aff6d36f-f94f-45a7-8779-c600ed7117db.png",
+    "sha256": "5f11ebb4d07b4f77f7bc14b8a887a3fe4b5506dd3851de6d612e64e13c02c7a8",
+    "origin": "Codex imagegen",
+    "profile": {
+      "columns": 3,
+      "rows": 2,
+      "mask": "cyan",
+      "anchor": "feet",
+      "pixelsPerUnit": 200
+    }
+  },
+  {
+    "id": "stefanie_field_ground",
+    "source": "C:\\Users\\rod03\\.codex\\generated_images\\01a0ca62-d7da-7383-a4be-3f8fc0055ece\\exec-1d233a91-f71d-47a6-b398-5cf15a073003.png",
+    "sha256": "a11a63e59db07c258643783326950b769cc27e882fd9836aa3cf356130ea2830",
+    "origin": "Codex imagegen",
+    "profile": {
+      "columns": 3,
+      "rows": 2,
+      "mask": "cyan",
+      "anchor": "feet",
+      "pixelsPerUnit": 200
+    }
+  }
+]

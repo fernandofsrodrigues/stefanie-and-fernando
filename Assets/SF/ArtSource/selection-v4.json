@@ -1,0 +1,226 @@
+[
+  {
+    "id": "fernando_pistol_walk",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Photorealistic eight-frame walk cycle.png",
+    "sourceSha256": "253a97a1ec18c39befdbc05653b547548b49df6cfbeaa6f028819181759c2956",
+    "stagedSha256": "253a97a1ec18c39befdbc05653b547548b49df6cfbeaa6f028819181759c2956",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "bottom": 0,
+      "worldHeight": 2.8,
+      "mask": "auto",
+      "anchor": "center",
+      "pixelsPerUnit": 165
+    },
+    "derivative": "exact original copy; authored import profile"
+  },
+  {
+    "id": "stefanie_pistol_walk",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Photorealistic eight-frame walking animation.png",
+    "sourceSha256": "529cded89ae61f095ba7abcd32ae8a39831c8eaa75a54d8beffaca610518d2ad",
+    "stagedSha256": "529cded89ae61f095ba7abcd32ae8a39831c8eaa75a54d8beffaca610518d2ad",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "bottom": 0,
+      "worldHeight": 2.8,
+      "mask": "auto",
+      "anchor": "center",
+      "pixelsPerUnit": 164
+    },
+    "derivative": "exact original copy; authored import profile"
+  },
+  {
+    "id": "fernando_pistol_run",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Fernando’s Eight-Pose Run Cycle.png",
+    "sourceSha256": "a74f1f4f9ce8d864f9e4d2281a389f6db3bcacf8c407d8bdf988b58090320633",
+    "stagedSha256": "a74f1f4f9ce8d864f9e4d2281a389f6db3bcacf8c407d8bdf988b58090320633",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "bottom": 0,
+      "worldHeight": 2.8,
+      "mask": "auto",
+      "anchor": "center",
+      "pixelsPerUnit": 165
+    },
+    "derivative": "exact original copy; authored import profile"
+  },
+  {
+    "id": "stefanie_pistol_run",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Stefanie’s Eight-Frame Side-View Run.png",
+    "sourceSha256": "1a374a73cf6083ff5a8444adf2ad55fedd1b843a8f260a45ac3999f36740f135",
+    "stagedSha256": "1a374a73cf6083ff5a8444adf2ad55fedd1b843a8f260a45ac3999f36740f135",
+    "profile": {
+      "columns": 4,
+      "rows": 2,
+      "top": 0,
+      "bottom": 0,
+      "worldHeight": 2.8,
+      "mask": "auto",
+      "anchor": "center",
+      "pixelsPerUnit": 164
+    },
+    "derivative": "exact original copy; authored import profile"
+  },
+  {
+    "id": "fernando_stop",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Fernando's Six-Pose Jog to Stop.png",
+    "sourceSha256": "4feb810464ceef799152c76f2f2d250020f406d76ce8deddf86736597be1bec4",
+    "stagedSha256": "4feb810464ceef799152c76f2f2d250020f406d76ce8deddf86736597be1bec4",
+    "profile": {
+      "columns": 3,
+      "rows": 2,
+      "top": 0,
+      "bottom": 0,
+      "worldHeight": 2.8,
+      "mask": "auto",
+      "anchor": "center",
+      "pixelsPerUnit": 162,
+      "excludeTopLeft": [
+        {
+          "x": 1240,
+          "y": 475,
+          "width": 90,
+          "height": 27
+        }
+      ]
+    },
+    "derivative": "exact original copy; authored import profile"
+  },
+  {
+    "id": "stefanie_stop",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Stefanie's jog-to-stop pose sheet.png",
+    "sourceSha256": "6748455b8f504da18b67c375e6fe243571852b3f3b52054dd1495c0641a70cbe",
+    "stagedSha256": "6748455b8f504da18b67c375e6fe243571852b3f3b52054dd1495c0641a70cbe",
+    "profile": {
+      "columns": 3,
+      "rows": 2,
+      "top": 0,
+      "bottom": 0,
+      "worldHeight": 2.8,
+      "mask": "auto",
+      "anchor": "center",
+      "pixelsPerUnit": 165,
+      "rowCuts": [
+        0,
+        0.49,
+        1
+      ]
+    },
+    "derivative": "exact original copy; authored import profile"
+  },
+  {
+    "id": "plate_3_1",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Misty coastal training compound at dawn Topaz Gigapixel 4x scale.png",
+    "sourceSha256": "88d37e83f93225154d95940df3356f821c510d45fc3e1853ad8fbed7f0c58dca",
+    "stagedSha256": "9b2b711da65f4e9e5649965d48e3fbb67fbd50a44111d2b00d3e73a6f08be7be",
+    "derivative": "2400px Lanczos from reviewed Topaz export",
+    "supersedes": "selection-v3.json"
+  },
+  {
+    "id": "plate_3_2",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Misty Coastal Training Lane Topaz Gigapixel 4x scale.png",
+    "sourceSha256": "63f5634d080588e007096686dbe76ae226b1df18add0c7acf91eb3d0aa2bf1ec",
+    "stagedSha256": "9f2221e0888a8566fb9f360049c978359bb629d42238bbf04b9f82a00064bb6f",
+    "derivative": "2400px Lanczos from reviewed Topaz export",
+    "supersedes": "selection-v3.json"
+  },
+  {
+    "id": "props_urban",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Urban street cover prop atlas.png",
+    "sourceSha256": "9507130b742d8b0c3047aa94463882fa1ba36701511b1d81b0a0013224c5d189",
+    "stagedSha256": "9507130b742d8b0c3047aa94463882fa1ba36701511b1d81b0a0013224c5d189",
+    "profile": {
+      "columns": 3,
+      "rows": 2,
+      "top": 0,
+      "bottom": 0,
+      "worldHeight": 2.8,
+      "mask": "cyan",
+      "anchor": "bounds",
+      "pixelsPerUnit": 100,
+      "excludeTopLeft": [
+        {
+          "x": 0,
+          "y": 420,
+          "width": 1536,
+          "height": 55
+        },
+        {
+          "x": 0,
+          "y": 900,
+          "width": 1536,
+          "height": 55
+        }
+      ]
+    },
+    "derivative": "exact original copy; authored import profile"
+  },
+  {
+    "id": "props_coastal",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Six coastal promenade cover props.png",
+    "sourceSha256": "080540048403c8c2309bdb738a2f7e319aabca440e6392a5383223fb25ebcd95",
+    "stagedSha256": "080540048403c8c2309bdb738a2f7e319aabca440e6392a5383223fb25ebcd95",
+    "profile": {
+      "columns": 3,
+      "rows": 2,
+      "top": 0,
+      "bottom": 0,
+      "worldHeight": 2.8,
+      "mask": "cyan",
+      "anchor": "bounds",
+      "pixelsPerUnit": 100,
+      "excludeTopLeft": [
+        {
+          "x": 0,
+          "y": 422,
+          "width": 1536,
+          "height": 55
+        },
+        {
+          "x": 0,
+          "y": 885,
+          "width": 1536,
+          "height": 55
+        }
+      ]
+    },
+    "derivative": "exact original copy; authored import profile"
+  },
+  {
+    "id": "props_desert",
+    "source": "C:\\Users\\rod03\\OneDrive\\F\\Fernando.org\\Stefanie and Fernando\\png\\Six modular cover object sprite atlas.png",
+    "sourceSha256": "aa9e80155b2cce0f20bb3e6bc8a3e0ace5de9489127fe3b1742797a682937cfd",
+    "stagedSha256": "aa9e80155b2cce0f20bb3e6bc8a3e0ace5de9489127fe3b1742797a682937cfd",
+    "profile": {
+      "columns": 3,
+      "rows": 2,
+      "top": 0,
+      "bottom": 0,
+      "worldHeight": 2.8,
+      "mask": "cyan",
+      "anchor": "bounds",
+      "pixelsPerUnit": 100,
+      "excludeTopLeft": [
+        {
+          "x": 0,
+          "y": 421,
+          "width": 1536,
+          "height": 55
+        },
+        {
+          "x": 0,
+          "y": 828,
+          "width": 1536,
+          "height": 55
+        }
+      ]
+    },
+    "derivative": "exact original copy; authored import profile"
+  }
+]

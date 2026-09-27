@@ -1,0 +1,11 @@
+{
+  "columns": 2,
+  "rows": 1,
+  "anchor": "center",
+  "mask": "cyan",
+  "pixelsPerUnit": 330,
+  "rootX": [
+    447,
+    1064
+  ]
+}

@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 8fc14d4d4aa1d404893dad538bf348a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1539895218265159146
+    second: exp_armored_boss_sheet_0
+  - first:
+      213: -2139008850380615354
+    second: exp_armored_boss_sheet_1
+  - first:
+      213: -2771718246079469353
+    second: exp_armored_boss_sheet_2
+  - first:
+      213: 7775611826183141682
+    second: exp_armored_boss_sheet_3
+  - first:
+      213: 552064284972397327
+    second: exp_armored_boss_sheet_4
+  - first:
+      213: 4782191811655356413
+    second: exp_armored_boss_sheet_5
+  - first:
+      213: 1335320866621187393
+    second: exp_armored_boss_sheet_6
+  - first:
+      213: 1131830888501520355
+    second: exp_armored_boss_sheet_7
+  - first:
+      213: -3178666709325885292
+    second: exp_armored_boss_sheet_8
+  - first:
+      213: 8457564928537024837
+    second: exp_armored_boss_sheet_9
+  - first:
+      213: 5868323662614504521
+    second: exp_armored_boss_sheet_10
+  - first:
+      213: 4563046457149323517
+    second: exp_armored_boss_sheet_11
+  - first:
+      213: 602411402392740591
+    second: exp_armored_boss_sheet_12
+  - first:
+      213: 1337906921249807075
+    second: exp_armored_boss_sheet_13
+  - first:
+      213: -5815217988756382624
+    second: exp_armored_boss_sheet_14
+  - first:
+      213: -4879107537964163077
+    second: exp_armored_boss_sheet_15
+  - first:
+      213: -8368732119644738050
+    second: exp_armored_boss_sheet_16
+  - first:
+      213: 5214595472379352505
+    second: exp_armored_boss_sheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: exp_armored_boss_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 780
+        width: 235
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a8bfb257131aae0800000000000000
+      internalID: -1539895218265159146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_armored_boss_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1276
+        width: 109
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64195a598c6b052e0800000000000000
+      internalID: -2139008850380615354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_armored_boss_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 779
+        width: 225
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8e6fcb0f0e889d0800000000000000
+      internalID: -2771718246079469353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_armored_boss_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 781
+        width: 259
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239f8fa42c588eb60800000000000000
+      internalID: 7775611826183141682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_armored_boss_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 780
+        width: 212
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03b5feca8359a700800000000000000
+      internalID: 552064284972397327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_armored_boss_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1275
+        width: 171
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffcf759d12cd5240800000000000000
+      internalID: 4782191811655356413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_armored_boss_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 510
+        width: 227
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1456f1cd043088210800000000000000
+      internalID: 1335320866621187393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_armored_boss_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 511
+        width: 223
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7a2f6423215bf00800000000000000
+      internalID: 1131830888501520355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_armored_boss_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 280
+        width: 195
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490554b187b13e3d0800000000000000
+      internalID: -3178666709325885292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_armored_boss_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 495
+        width: 269
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549504e0e7e4f5570800000000000000
+      internalID: 8457564928537024837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_armored_boss_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 511
+        width: 223
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94428298749707150800000000000000
+      internalID: 5868323662614504521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_armored_boss_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 285
+        width: 170
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df87df3a392335f30800000000000000
+      internalID: 4563046457149323517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_armored_boss_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 199
+        width: 277
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2a3409af13c5800800000000000000
+      internalID: 602411402392740591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_armored_boss_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 285
+        width: 199
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea91af9143319210800000000000000
+      internalID: 1337906921249807075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_armored_boss_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 30
+        width: 221
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cd6b0bc023c4fa0800000000000000
+      internalID: -5815217988756382624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_armored_boss_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 31
+        width: 217
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff17ba7b8de94cb0800000000000000
+      internalID: -4879107537964163077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_armored_boss_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 34
+        width: 259
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd6c240a7a4cdb80800000000000000
+      internalID: -8368732119644738050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_armored_boss_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 23
+        width: 209
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5188a34f6fd5840800000000000000
+      internalID: 5214595472379352505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      exp_armored_boss_sheet_0: -1539895218265159146
+      exp_armored_boss_sheet_1: -2139008850380615354
+      exp_armored_boss_sheet_10: 5868323662614504521
+      exp_armored_boss_sheet_11: 4563046457149323517
+      exp_armored_boss_sheet_12: 602411402392740591
+      exp_armored_boss_sheet_13: 1337906921249807075
+      exp_armored_boss_sheet_14: -5815217988756382624
+      exp_armored_boss_sheet_15: -4879107537964163077
+      exp_armored_boss_sheet_16: -8368732119644738050
+      exp_armored_boss_sheet_17: 5214595472379352505
+      exp_armored_boss_sheet_2: -2771718246079469353
+      exp_armored_boss_sheet_3: 7775611826183141682
+      exp_armored_boss_sheet_4: 552064284972397327
+      exp_armored_boss_sheet_5: 4782191811655356413
+      exp_armored_boss_sheet_6: 1335320866621187393
+      exp_armored_boss_sheet_7: 1131830888501520355
+      exp_armored_boss_sheet_8: -3178666709325885292
+      exp_armored_boss_sheet_9: 8457564928537024837
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

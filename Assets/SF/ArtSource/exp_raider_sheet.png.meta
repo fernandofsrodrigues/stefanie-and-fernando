@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 4b709f983da76a8478be47129a503022
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4845646553095771269
+    second: exp_raider_sheet_0
+  - first:
+      213: 6514291839923982808
+    second: exp_raider_sheet_1
+  - first:
+      213: -6716387532359416855
+    second: exp_raider_sheet_2
+  - first:
+      213: 2138325504941328247
+    second: exp_raider_sheet_3
+  - first:
+      213: 4023179740539078160
+    second: exp_raider_sheet_4
+  - first:
+      213: 7574463653663169377
+    second: exp_raider_sheet_5
+  - first:
+      213: 3491556051361330708
+    second: exp_raider_sheet_6
+  - first:
+      213: 285332413788636003
+    second: exp_raider_sheet_7
+  - first:
+      213: 5153256198902213988
+    second: exp_raider_sheet_8
+  - first:
+      213: -5970472437046262504
+    second: exp_raider_sheet_9
+  - first:
+      213: 4492614168215680941
+    second: exp_raider_sheet_10
+  - first:
+      213: -6488887328236948727
+    second: exp_raider_sheet_11
+  - first:
+      213: -7943655660562799812
+    second: exp_raider_sheet_12
+  - first:
+      213: 7220439521323546798
+    second: exp_raider_sheet_13
+  - first:
+      213: 821760798660471818
+    second: exp_raider_sheet_14
+  - first:
+      213: 6820043772619537911
+    second: exp_raider_sheet_15
+  - first:
+      213: -3557206975098651094
+    second: exp_raider_sheet_16
+  - first:
+      213: -3385236107450144829
+    second: exp_raider_sheet_17
+  - first:
+      213: -6398693368917045935
+    second: exp_raider_sheet_18
+  - first:
+      213: 2648113574207483081
+    second: exp_raider_sheet_19
+  - first:
+      213: 4922425486263480831
+    second: exp_raider_sheet_20
+  - first:
+      213: 7444429918175992189
+    second: exp_raider_sheet_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: exp_raider_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 780
+        width: 226
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b61af122ec0ccb0800000000000000
+      internalID: -4845646553095771269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_raider_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 770
+        width: 271
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d115e90ae9676a50800000000000000
+      internalID: 6514291839923982808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_raider_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1277
+        width: 221
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3cadfcf199ac2a0800000000000000
+      internalID: -6716387532359416855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_raider_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1379
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7778f28a7bbdcad10800000000000000
+      internalID: 2138325504941328247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_raider_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 291
+        width: 279
+        height: 1205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016416688a435d730800000000000000
+      internalID: 4023179740539078160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_raider_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1185
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b53b0df86ed1960800000000000000
+      internalID: 7574463653663169377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_raider_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1023
+        width: 167
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416f1cacabf747030800000000000000
+      internalID: 3491556051361330708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_raider_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 765
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363c6ce8154b5f300800000000000000
+      internalID: 285332413788636003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_raider_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 779
+        width: 233
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d6524b53b048740800000000000000
+      internalID: 5153256198902213988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_raider_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 453
+        width: 180
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815c89093fe942da0800000000000000
+      internalID: -5970472437046262504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_raider_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 313
+        width: 293
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7f16978c8f85e30800000000000000
+      internalID: 4492614168215680941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_raider_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 607
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90337e4ca57d2f5a0800000000000000
+      internalID: -6488887328236948727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_raider_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 601
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c332226934772c190800000000000000
+      internalID: -7943655660562799812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_raider_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 481
+        width: 233
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea87ea63d77243460800000000000000
+      internalID: 7220439521323546798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_raider_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 285
+        width: 149
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0caf7ea71b776b00800000000000000
+      internalID: 821760798660471818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_raider_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 285
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd3a935da9a5ae50800000000000000
+      internalID: 6820043772619537911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_raider_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 29
+        width: 221
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ef3b06a1342aec0800000000000000
+      internalID: -3557206975098651094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_raider_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 261
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7ab9e22b93501d0800000000000000
+      internalID: -3385236107450144829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_raider_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 42
+        width: 198
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d4d0f58464337a0800000000000000
+      internalID: -6398693368917045935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_raider_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 231
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cce683f34dffb420800000000000000
+      internalID: 2648113574207483081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_raider_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 19
+        width: 255
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1701e46e7ff4440800000000000000
+      internalID: 4922425486263480831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_raider_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 197
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d799b2c719def4760800000000000000
+      internalID: 7444429918175992189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      exp_raider_sheet_0: -4845646553095771269
+      exp_raider_sheet_1: 6514291839923982808
+      exp_raider_sheet_10: 4492614168215680941
+      exp_raider_sheet_11: -6488887328236948727
+      exp_raider_sheet_12: -7943655660562799812
+      exp_raider_sheet_13: 7220439521323546798
+      exp_raider_sheet_14: 821760798660471818
+      exp_raider_sheet_15: 6820043772619537911
+      exp_raider_sheet_16: -3557206975098651094
+      exp_raider_sheet_17: -3385236107450144829
+      exp_raider_sheet_18: -6398693368917045935
+      exp_raider_sheet_19: 2648113574207483081
+      exp_raider_sheet_2: -6716387532359416855
+      exp_raider_sheet_20: 4922425486263480831
+      exp_raider_sheet_21: 7444429918175992189
+      exp_raider_sheet_3: 2138325504941328247
+      exp_raider_sheet_4: 4023179740539078160
+      exp_raider_sheet_5: 7574463653663169377
+      exp_raider_sheet_6: 3491556051361330708
+      exp_raider_sheet_7: 285332413788636003
+      exp_raider_sheet_8: 5153256198902213988
+      exp_raider_sheet_9: -5970472437046262504
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

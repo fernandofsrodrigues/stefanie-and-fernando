@@ -1,0 +1,15 @@
+{
+  "columns": 4,
+  "rows": 2,
+  "top": 0,
+  "worldHeight": 2.8,
+  "captionBand": 0,
+  "anchor": "feet",
+  "mask": "cyan",
+  "rowCuts": [
+    0,
+    0.508,
+    1
+  ],
+  "pixelsPerUnit": 152
+}
