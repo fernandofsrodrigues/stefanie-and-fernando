@@ -79,7 +79,7 @@ To rebuild the imported sprites from `Assets/SF/ArtSource`, use **SF → 1. Impo
 
 ## Credits
 
-**Game design, direction and playtesting:** Rod ([fernando.org](https://www.fernando.org)). Built on Irin Berry's GSD 551 Week 4 platformer checkpoint.
+**Game design and direction:** Rod ([fernando.org](https://www.fernando.org)). Built on Irin Berry's GSD 551 Week 4 platformer checkpoint.
 
 **Development assistance:** AI coding assistants (OpenAI Codex and Anthropic Claude) helped write, test and review the code under Rod's direction. The character and background art was created with AI image-generation tools from Rod's direction and supplied references. Provenance is recorded next to each source file in `Assets/SF/ArtSource`.
 
